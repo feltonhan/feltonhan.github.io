@@ -29,6 +29,12 @@ This is Photo Gallary.
 <div class='paper-box-image'><img src='images/Mexico/DSC_0176.JPG' alt="sym" width="130%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0071_1.JPG' alt="sym" width="130%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0133_1.JPG' alt="sym" width="130%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_0937.JPG' alt="sym" width="130%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_0942.JPG' alt="sym" width="130%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_0912.JPG' alt="sym" width="130%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="130%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_1026.JPG' alt="sym" width="130%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_1028.JPG' alt="sym" width="130%"></div>
 <div class='paper-box-text' markdown="1"> 
 </div>
 </div>
