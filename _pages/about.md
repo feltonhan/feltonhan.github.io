@@ -22,7 +22,7 @@ This is Photo Gallary.
 
 # 🔥 Mexico City 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="110%"></div>
-<div class='paper-box-image'><img src='images/DSC_0836.JPG' alt="sym" width="110%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_0836.JPG' alt="sym" width="110%"></div>
 <div class='paper-box-text' markdown="1"> 
 </div>
 </div>
