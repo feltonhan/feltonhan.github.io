@@ -22,7 +22,7 @@ This is Photo Gallary.
 
 # 📍Mexico City, 2022/08/24,  Pyramid of the Sun and Pyramid of the Moon
 
-<img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="2000">
+<img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="1000">
 <img src='images/Mexico/DSC_0836.JPG' alt="sym" width="2000">
 <img src='images/Mexico/DSC_0037.JPG' alt="sym" width="2000">
 <img src='images/Mexico/DSC_0057.JPG' alt="sym" width="2000">
@@ -52,7 +52,7 @@ This is Photo Gallary.
 <div class='paper-box-text' markdown="1">
 
 
-# 📍Yellostone National Park, 2022/08/24,  Pyramid of the Sun and Pyramid of the Moon
+# 📍Yellostone National Park, 2022/08/24
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
