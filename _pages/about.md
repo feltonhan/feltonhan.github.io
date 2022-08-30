@@ -27,7 +27,7 @@ This is Photo Gallary.
 <div class='paper-box-image'><img src='images/Mexico/DSC_0057.JPG' alt="sym" width="150%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0156.JPG' alt="sym" width="150%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0176.JPG' alt="sym" width="150%"></div>
-<div class='paper-box-image'><img src='images/Mexico/DSC_0071_1.JPG' alt="sym" width="150%"></div>
+<div class='paper-box-image'><img src='images/Mexico/DSC_0071_1.jpg' alt="sym" width="150%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0133_1.JPG' alt="sym" width="150%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0937.JPG' alt="sym" width="150%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0942.JPG' alt="sym" width="150%"></div>
