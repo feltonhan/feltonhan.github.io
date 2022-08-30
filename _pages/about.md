@@ -34,25 +34,24 @@ This is Photo Gallary.
 <p><img src='images/Mexico/DSC_0942.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<div class='paper-box-text' markdown="1"> 
+
+
+<p><img src='images/Mexico/DSC_0966_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_0028.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_0029.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_0007_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_1026.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_1028.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_0995_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1"> 
 
 
 
-<p><img src='images/Mexico/DSC_0028.JPG' alt="sym" width="800" class="center"><br /> <br /><p>
-<p><img src='images/Mexico/DSC_0029.JPG' alt="sym" width="800" class="center"><br /><p>
-<div class='paper-box-text' markdown="1"> 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 # 📍Yellostone National Park, 2022/08/24
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 
 </div>
