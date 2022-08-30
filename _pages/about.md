@@ -40,7 +40,7 @@ This is Photo Gallary.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="250%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="3000"></div>
 <div class='paper-box-text' markdown="1"> 
 </div>
 </div>
