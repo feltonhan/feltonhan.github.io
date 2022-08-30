@@ -21,20 +21,20 @@ This is Photo Gallary.
 
 
 # 🔥 Mexico City 
-<img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0836.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0037.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0057.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0156.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0176.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0071_1.jpg' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0133_1.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0937.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0942.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0912.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_0972.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_1026.JPG' alt="sym" width="3000"></div>
-<img src='images/Mexico/DSC_1028.JPG' alt="sym" width="3000"></div>
+<img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0836.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0037.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0057.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0156.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0176.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0071_1.jpg' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0133_1.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0937.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0942.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0912.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_0972.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_1026.JPG' alt="sym" width="2500"></div>
+<img src='images/Mexico/DSC_1028.JPG' alt="sym" width="2500"></div>
 <div class='paper-box-text' markdown="1"> 
 </div>
 </div>
