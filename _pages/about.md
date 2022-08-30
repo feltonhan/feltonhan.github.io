@@ -39,6 +39,11 @@ This is Photo Gallary.
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="250%"></div>
+<div class='paper-box-text' markdown="1"> 
+</div>
+</div>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
