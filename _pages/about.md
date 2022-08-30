@@ -20,7 +20,8 @@ redirect_from:
 This is Photo Gallary.
 
 
-# 📍Mexico City, 2022/08/24,  Pyramid of the Sun and Pyramid of the Moon
+# 📍Mexico City
+Photos taken in the arear of Pyramid of the Sun and Pyramid of the Moon, Mexico.
 
 <p><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0836.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -51,7 +52,8 @@ This is Photo Gallary.
 
 
 
-# 📍Yellostone National Park, 2022/08/24
+# 📍Yellostone National Park
+2022/08/24
 
 
 </div>
