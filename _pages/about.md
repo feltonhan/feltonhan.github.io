@@ -22,27 +22,27 @@ This is Photo Gallary.
 
 # 📍Mexico City, 2022/08/24,  Pyramid of the Sun and Pyramid of the Moon
 
-<img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0836.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0037.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0057.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0156.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0176.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0071_1.jpg' alt="sym" width="800">
-<img src='images/Mexico/DSC_0133_1.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0937.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0942.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_1026.JPG' alt="sym" width="800">
-<img src='images/Mexico/DSC_1028.JPG' alt="sym" width="800">
+<img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0836.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0037.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0057.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0156.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0176.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0071_1.jpg' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0133_1.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0937.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0942.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_1026.JPG' alt="sym" width="800" class="center">
+<img src='images/Mexico/DSC_1028.JPG' alt="sym" width="800" class="center">
 <div class='paper-box-text' markdown="1"> 
 </div>
 </div>
 
 
-<p><img src='images/Mexico/DSC_0028.JPG' alt="sym" width="800"><br /> <br /><p>
-<p><img src='images/Mexico/DSC_0029.JPG' alt="sym" width="800"><br /><p>
+<p><img src='images/Mexico/DSC_0028.JPG' alt="sym" width="800" class="center"><br /> <br /><p>
+<p><img src='images/Mexico/DSC_0029.JPG' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1"> 
 </div>
 </div>
