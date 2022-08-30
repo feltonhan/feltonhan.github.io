@@ -21,7 +21,7 @@ This is Photo Gallary.
 
 
 # 🔥 Mexico City 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="150%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="250%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0836.JPG' alt="sym" width="150%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0037.JPG' alt="sym" width="150%"></div>
 <div class='paper-box-image'><img src='images/Mexico/DSC_0057.JPG' alt="sym" width="150%"></div>
