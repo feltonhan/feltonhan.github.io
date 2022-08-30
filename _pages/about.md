@@ -41,8 +41,8 @@ This is Photo Gallary.
 </div>
 
 
-<img src='images/Mexico/DSC_0028.JPG' alt="sym" width="2500"></br>
-<img src='images/Mexico/DSC_0029.JPG' alt="sym" width="2500"></br>
+<img src='images/Mexico/DSC_0028.JPG' alt="sym" width="2500"><br />
+<img src='images/Mexico/DSC_0029.JPG' alt="sym" width="2500"><br />
 <div class='paper-box-text' markdown="1"> 
 </div>
 </div>
