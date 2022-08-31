@@ -70,7 +70,7 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 <p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-<p>Grand Teton National Park<br /><p>
+<p>Grand Teton National Park, Wyoming <br /><p>
 <p><img src='images/Teton/DSC_0036_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0054_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0187_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -99,7 +99,7 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 <p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-<p>Yellostone Nation Park, <br /><p>
+<p>Yellostone Nation Park, Wyoming  <br /><p>
 
 <p><img src='images/Yellostone/DSC_0232_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
