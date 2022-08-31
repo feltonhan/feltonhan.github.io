@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Felton Photo Gallary"
-description              : "Felton Photo Gallary. All copyrights reserved. Fell free to contact me if you need any photos."
+description              : "Felton Photo Gallary. All copyrights reserved. Feel free to contact me if you need any photos."
 repository               : "RayeRen/acad-homepage.github.io"
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : #"fengrutgers@gmail.com"
+  email            : "fengrutgers@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
