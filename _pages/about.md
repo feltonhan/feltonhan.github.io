@@ -54,12 +54,12 @@ Photos taken in the arear of Pyramid of the Sun and Pyramid of the Moon, Mexico.
 
 # 📍New York City
 Photos taken in NYC in June 2022.
-<p><img src='images/NY/DSC_0888_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NY/DSC_0888_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0890_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0891_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NY/DSC_0913_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NY/DSC_0917.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NY/DSC_0915_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NY/DSC_0913_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NY/DSC_0917.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NY/DSC_0915_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1"> 
 
 # 📍Yellostone National Park
