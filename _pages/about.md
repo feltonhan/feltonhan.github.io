@@ -100,7 +100,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <div class='paper-box-text' markdown="1">
 
 
-# 📍Craters of the Moon National Monument & Preserve
+# 📍Craters of the Moon National Monument and Preserve
 <p><img src='images/Moon crater/DSC_0022_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0001_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0042_2.JPG' alt="sym" width="800" class="center"><br /><p>
