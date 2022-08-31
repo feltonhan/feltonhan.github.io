@@ -153,7 +153,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/RDay/DSC_0601_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0640_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0656_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RDay/DSC_0686_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0686_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0694_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0695_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0770_1.JPG' alt="sym" width="800" class="center"><br /><p>
