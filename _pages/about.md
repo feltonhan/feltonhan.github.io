@@ -36,9 +36,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Mexico/DSC_0937.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0942.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-
-
+<p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0966_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0028.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0029.JPG' alt="sym" width="800" class="center"><br /><p>
