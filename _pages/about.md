@@ -66,6 +66,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Salt lake/DSC_0045_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0086_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Salt lake/DSC_0594_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
@@ -106,7 +107,6 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Bearlake/DSC_0329_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0324_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0524_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0594_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
