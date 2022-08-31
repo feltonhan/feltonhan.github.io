@@ -23,7 +23,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍Mexico City
-Photos taken in the arear of Pyramid of the Sun and Pyramid of the Moon, Mexico.
+<p>Photos taken in the arear of Pyramid of the Sun and Pyramid of the Moon, Mexico.<br /> <br /> <p>
 
 <p><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0836.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -53,7 +53,7 @@ Photos taken in the arear of Pyramid of the Sun and Pyramid of the Moon, Mexico.
 
 
 # 📍New York City
-Photos taken in NYC in June 2022.
+<p>Photos taken in NYC in June 2022.<br /><br /><p>
 <p><img src='images/NY/DSC_0888_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0890_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0891_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -63,14 +63,14 @@ Photos taken in NYC in June 2022.
 <div class='paper-box-text' markdown="1"> 
 
 # 📍Yellostone National Park
-Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.
+<p>Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
 
-<p>Salt Lake City<br /><p>
+<p> 🏝️ Salt Lake City<br /><br /><p>
 <p><img src='images/Salt lake/DSC_0597_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-<p>Grand Teton National Park, Wyoming <br /><p>
+<p> 🏝️ Grand Teton National Park, Wyoming <br /><br /><p>
 <p><img src='images/Teton/DSC_0036_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0054_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0187_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -80,7 +80,7 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 
 
 
-<p>Craters of the Moon National Monument & Preserve, Idaho<br /><p>
+<p>🏝️ Craters of the Moon National Monument & Preserve, Idaho<br /><br /><p>
 
 <p><img src='images/Moon crater/DSC_0022_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0001_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -91,7 +91,7 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 <p><img src='images/Moon crater/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-<p>Bear Lake, Idaho<br /><p>
+<p>🏝️ Bear Lake State Park, Idaho<br /><p>
 
 <p><img src='images/Bearlake/DSC_0423_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0329_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -99,7 +99,7 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 <p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-<p>Yellowstone Nation Park, Wyoming  <br /><p>
+<p>🏝️ Yellowstone Nation Park, Wyoming  <br /><br /><p>
 
 <p><img src='images/Yellostone/DSC_0232_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
