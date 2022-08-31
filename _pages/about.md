@@ -82,13 +82,13 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 
 <p>Craters of the Moon National Monument & Preserve, Idaho<br /><p>
 
-<p><img src='images/Bearlake/DSC_0022_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0001_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0042_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0099_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0170_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0162_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+<p><img src='images/Moon crater/DSC_0022_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon crater/DSC_0001_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon crater/DSC_0042_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon crater/DSC_0099_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon crater/DSC_0170_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon crater/DSC_0162_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon crater/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
 <p>Bear Lake, Idaho<br /><p>
