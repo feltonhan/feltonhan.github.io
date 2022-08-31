@@ -61,7 +61,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 <p>Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
 
-# 📍 <p> Salt Lake City, Utah <br /><p>
+# 📍 Salt Lake City, Utah
 <p><img src='images/Salt lake/DSC_0597_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0045_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -70,14 +70,14 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 
-# 📍 <p>Antelope State Park, Utah <br /><p>
+# 📍 Antelope State Park, Utah
 <p><img src='images/Antelope/DSC_0208_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 
-# 📍 <p> Grand Teton National Park, Wyoming <br /><p>
+# 📍 Grand Teton National Park, Wyoming
 <p><img src='images/Teton/DSC_0036_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0054_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0187_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -91,8 +91,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 
-# 📍 <p>Craters of the Moon National Monument & Preserve, Idaho <br /><p>
-
+# 📍 Craters of the Moon National Monument & Preserve, Idaho
 <p><img src='images/Moon crater/DSC_0022_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0001_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0042_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -102,8 +101,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Moon crater/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
-# 📍 <p>Bear Lake State Park, Idaho<br /><p>
-
+# 📍 Bear Lake State Park, Idaho
 <p><img src='images/Bearlake/DSC_0423_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0329_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0324_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -115,8 +113,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 
-# 📍 <p>Yellowstone National Park, Wyoming  <br /><p>
-
+# 📍 Yellowstone National Park, Wyoming
 <p><img src='images/Yellostone/DSC_0232_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0982_1.JPG' alt="sym" width="800" class="center"><br /><p>
