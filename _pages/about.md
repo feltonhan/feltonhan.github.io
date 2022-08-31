@@ -111,7 +111,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Bearlake/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
-<p>🏝️ Yellowstone Nation Park, Wyoming  <br /><br /><p>
+<p>🏝️ Yellowstone National Park, Wyoming  <br /><br /><p>
 
 <p><img src='images/Yellostone/DSC_0232_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
