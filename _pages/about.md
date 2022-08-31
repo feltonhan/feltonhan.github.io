@@ -65,7 +65,8 @@ Photos taken in NYC in June 2022.
 # 📍Yellostone National Park
 Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.
 
-
+Salt Lake City
+<p><img src='images/Salt lake/DSC_0597_2.JPG' alt="sym" width="800" class="center"><br /><p>
 
 </div>
 
