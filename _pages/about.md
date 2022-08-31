@@ -36,9 +36,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Mexico/DSC_0937.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0942.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><p>
-
-<div class='paper-box-text' markdown="1"> 
+<p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 <p><img src='images/Mexico/DSC_0966_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -47,8 +45,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Mexico/DSC_0007_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_1026.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_1028.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Mexico/DSC_0995_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<div class='paper-box-text' markdown="1"> 
+<p><img src='images/Mexico/DSC_0995_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 
@@ -59,8 +56,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/NY/DSC_0891_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0913_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0917.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NY/DSC_0915_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<div class='paper-box-text' markdown="1"> 
+<p><img src='images/NY/DSC_0915_1.jpg' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 # 📍Yellowstone National Park
 <p>Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
@@ -70,7 +66,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Salt lake/DSC_0045_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0085_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+<p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 <p> 🏝️ Grand Teton National Park, Wyoming <br /><br /><p>
@@ -83,7 +79,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Teton/DSC_0634_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0756_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0773_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+<p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 
@@ -95,7 +91,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Moon crater/DSC_0099_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0170_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0162_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Moon crater/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+<p><img src='images/Moon crater/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 <p>🏝️ Bear Lake State Park, Idaho<br /><p>
@@ -105,14 +101,14 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Bearlake/DSC_0324_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0524_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0594_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+<p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 <p>🏝️ Antelope State Park, Utah<br /><p>
 
 <p><img src='images/Bearlake/DSC_0208_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+<p><img src='images/Bearlake/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
 
 <p>🏝️ Yellowstone Nation Park, Wyoming  <br /><br /><p>
@@ -132,7 +128,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0982_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0854_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0371_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Yellostone/DSC0827_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0827_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0055_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0639_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Yellostone/DSC_0573_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+<p><img src='images/Yellostone/DSC_0573_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
