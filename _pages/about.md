@@ -67,7 +67,10 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 
 Salt Lake City
 <p><img src='images/Salt lake/DSC_0597_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><p>
-</div>
+<p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
+
+Grand Teton National Park
+<p><img src='images/Teton/DSC_0054_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Teton/DSC_0187_2.JPG' alt="sym" width="800" class="center"><br /><p>
 
