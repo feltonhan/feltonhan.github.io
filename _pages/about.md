@@ -46,7 +46,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Mexico/DSC_1026.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_1028.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0995_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
 
 
 
@@ -59,7 +59,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/NY/DSC_0913_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0917.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0915_1.jpg' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
 
 <p>Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
 
@@ -72,7 +72,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Salt lake/DSC_0086_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0594_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
 
 
 
@@ -81,7 +81,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Antelope/DSC_0208_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
 
 
 
@@ -97,7 +97,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Teton/DSC_0756_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0773_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
 
 
 # 📍Craters of the Moon National Monument & Preserve, Idaho
@@ -108,7 +108,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Moon crater/DSC_0170_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0162_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon crater/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
 
 # 📍Bear Lake State Park, Idaho
 <p><img src='images/Bearlake/DSC_0423_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -116,7 +116,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Bearlake/DSC_0324_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0524_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
 
 
 
@@ -142,4 +142,4 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0055_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0639_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0573_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-</div>
+<div class='paper-box-text' markdown="1">
