@@ -99,7 +99,7 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 <p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-<p>Yellostone Nation Park, Wyoming  <br /><p>
+<p>Yellowstone Nation Park, Wyoming  <br /><p>
 
 <p><img src='images/Yellostone/DSC_0232_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
