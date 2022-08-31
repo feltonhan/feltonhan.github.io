@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "hi-welcome"
+  - title: "Hi Welcome"
     url: "/#hi-welcome"
 
   - title: "Mexico City"
@@ -10,20 +10,20 @@ main:
     url: "/#new-york-city"
 
   - title: "Salt Lake City"
-    url: "/#salt-lake-city,-utah"
+    url: "/#salt-lake-city"
 
   - title: "Antelope State Park"
-    url: "/#antelope-state-park,-utah"
+    url: "/#antelope-state-park"
 
   - title: "Grand Teton National Park"
-    url: "/#grand-teton-national-park,-wyoming"
+    url: "/#grand-teton-national-park"
 
   - title: "Craters of the Moon"
-    url: "/#craters-of-the-moon-national-monument-preserve,-idaho"
+    url: "/#craters-of-the-moon-national-monument-preserve"
 
   - title: "Bear Lake State Park"
-    url: "/#bear-lake-state-park,-idaho"
+    url: "/#bear-lake-state-park"
 
   - title: "Yellowstone National Park"
-    url: "/#-yellowstone-national-park,-wyoming"
+    url: "/#-yellowstone-national-park"
 
