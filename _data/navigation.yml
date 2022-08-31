@@ -9,7 +9,9 @@ main:
   - title: "New York City"
     url: "/#new-york-city"
 
+  - title: "Salt Lake City"
+    url: "/#salt-lake-city"
+
   - title: "Yellowstone National Park"
     url: "/#-yellowstone-national-park"
 
-    
