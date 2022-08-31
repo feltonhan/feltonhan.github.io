@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨‍🎓 About Me
-Folks, wellcome to my photo gallary. I am a full time professional student and part time fun seeker. I take pictures of simple moment of ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background.
+Folks, wellcome to my photo gallary. I am a full time student and part time professional fun seeker. I take pictures of simple moment of ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background.
 
 
 # 📍Mexico City
