@@ -77,3 +77,10 @@ Grand Teton National Park
 <p><img src='images/Teton/DSC_0380_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0905_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+Bear Lake, Idaho
+<p><img src='images/Bearlake/DSC_0423_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0329_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0324_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><p>
