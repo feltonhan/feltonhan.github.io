@@ -105,4 +105,8 @@ Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in A
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0006_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0213_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0791_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0843_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0987_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0639_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0573_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
