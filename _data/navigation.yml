@@ -12,6 +12,18 @@ main:
   - title: "Salt Lake City"
     url: "/#salt-lake-city"
 
+  - title: "Antelope State Park"
+    url: "/#antelope-state-park"
+
+  - title: "Grand Teton National Park"
+    url: "/#grand-teton-national-park"
+
+  - title: "Craters of the Moon"
+    url: "/#Craters-of-the-Moon-National-Monument-Preserve"
+
+  - title: "Bear Lake State Park"
+    url: "/#bear-lake-state-park"
+
   - title: "Yellowstone National Park"
     url: "/#-yellowstone-national-park"
 
