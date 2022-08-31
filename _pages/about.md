@@ -65,22 +65,37 @@ Photos taken in NYC in June 2022.
 # 📍Yellostone National Park
 Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.
 
-Salt Lake City
+<p>Salt Lake City<br /><p>
 <p><img src='images/Salt lake/DSC_0597_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-Grand Teton National Park
+<p>Grand Teton National Park<br /><p>
 <p><img src='images/Teton/DSC_0036_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0054_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0187_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0380_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0905_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><br /><p>
 
 
-Bear Lake, Idaho
+
+<p>Craters of the Moon National Monument & Preserve, Idaho<br /><p>
+
+<p><img src='images/Bearlake/DSC_0022_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0001_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0042_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0099_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0170_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0162_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0183_2.JPG' alt="sym" width="800" class="center"><br /><br /><p>
+
+
+<p>Bear Lake, Idaho<br /><p>
+
 <p><img src='images/Bearlake/DSC_0423_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0329_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0324_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
