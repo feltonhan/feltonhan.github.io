@@ -143,3 +143,21 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0639_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0573_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
+
+
+
+# 📍R Day
+<p>Photas taken in RU Day, April 2022.<br /><p>
+
+<p><img src='images/RDay/DSC_0597_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0601_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0640_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0656_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0686_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0694_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0695_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0770_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0784_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0785_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0825_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
