@@ -62,7 +62,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/NY/DSC_0915_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1"> 
 
-# 📍Yellostone National Park
+# 📍Yellowstone National Park
 <p>Photos taken in Utah, Nevada, Idaho,Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
 
 <p> 🏝️ Salt Lake City<br /><br /><p>
