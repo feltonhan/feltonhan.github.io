@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Photo Gallary.
 
 # 👨‍🎓 About Me
-I am a full time professional student and part time fun seeker. I take pictures of simple moment of ordinary people.
+Folks, wellcome to my photo gallary. I am a full time professional student and part time fun seeker. I take pictures of simple moment of ordinary people.
 
 
 # 📍Mexico City
