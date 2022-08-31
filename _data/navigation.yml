@@ -10,20 +10,20 @@ main:
     url: "/#new-york-city"
 
   - title: "Salt Lake City"
-    url: "/#salt-lake-city"
+    url: "/#salt-lake-city,-utah"
 
   - title: "Antelope State Park"
-    url: "/#antelope-state-park"
+    url: "/#antelope-state-park,-utah"
 
   - title: "Grand Teton National Park"
-    url: "/#grand-teton-national-park"
+    url: "/#grand-teton-national-park,-wyoming"
 
   - title: "Craters of the Moon"
-    url: "/#Craters-of-the-Moon-National-Monument-Preserve"
+    url: "/#craters-of-the-moon-national-monument-preserve,-idaho"
 
   - title: "Bear Lake State Park"
-    url: "/#bear-lake-state-park"
+    url: "/#bear-lake-state-park,-idaho"
 
   - title: "Yellowstone National Park"
-    url: "/#-yellowstone-national-park"
+    url: "/#-yellowstone-national-park,-wyoming"
 
