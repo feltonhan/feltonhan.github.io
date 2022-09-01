@@ -150,7 +150,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍R Day
-<p>Photos taken in RU Day, April 2022.<br /><p>
+<p>Photos taken on RU Day, April 2022.<br /><p>
 
 <p><img src='images/RDay/DSC_0597_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0601_1.JPG' alt="sym" width="800" class="center"><br /><p>
