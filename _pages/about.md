@@ -190,3 +190,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/New Jersey/DSC_0559_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Jersey/DSC_0652_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
+
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=w_lXZ3xuU70cftW2w5PHFNT7ELNHkFOHYRyrRVruMIU&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
