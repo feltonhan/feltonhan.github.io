@@ -53,7 +53,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍New York City
-<p>Photos taken in NYC in June 2022.<br /><br /><p>
+<p>Photos taken in NYC, June 2022.<br /><br /><p>
 <p><img src='images/NY/DSC_0888_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0890_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0891_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -61,7 +61,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/NY/DSC_0917.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0915_1.jpg' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
-<p>Photos taken in Utah, Nevada, Idaho, Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
+<p>Photos blow are taken in Utah, Nevada, Idaho, Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -150,7 +150,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍R Day
-<p>Photas taken in RU Day, April 2022.<br /><p>
+<p>Photos taken in RU Day, April 2022.<br /><p>
 
 <p><img src='images/RDay/DSC_0597_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0601_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -168,7 +168,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍New Orleans
-<p>Photas taken in New Orleans, March 2021.<br /><p>
+<p>Photos taken in New Orleans, March 2021.<br /><p>
 
 <p><img src='images/New Orleans/DSC_0926_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1016_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -179,7 +179,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍New Jersey
-<p>Photas taken in New Jersey, 2019-2022.<br /><p>
+<p>Photos taken in New Jersey, 2019-2022.<br /><p>
 
 <p><img src='images/New Jersey/DSC_0035_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Jersey/DSC_0469_1.JPG' alt="sym" width="800" class="center"><br /><p>
