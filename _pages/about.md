@@ -193,8 +193,5 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=w_lXZ3xuU70cftW2w5PHFNT7ELNHkFOHYRyrRVruMIU&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-
-
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+<span id="busuanzi_container_site_pv">Wellocme !🖐️🖐️🖐️ You are the <span id="busuanzi_value_site_pv"></span>-th vistor.</span>
