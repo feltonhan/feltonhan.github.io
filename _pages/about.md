@@ -159,6 +159,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/RDay/DSC_0770_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0784_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0785_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RDay/DSC_0572_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RDay/DSC_0825_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
@@ -178,6 +179,9 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p>Photas taken in New Jersey, 2019-2022.<br /><p>
 
 <p><img src='images/New Jersey/DSC_0035_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/New Jersey/DSC_0469_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/New Jersey/DSC_0084_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/New Jersey/DSC_0528_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Jersey/DSC_0125_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Jersey/DSC_0277_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Jersey/DSC_0559_1.JPG' alt="sym" width="800" class="center"><br /><p>
