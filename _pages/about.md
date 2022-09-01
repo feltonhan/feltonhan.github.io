@@ -193,8 +193,8 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 <div>
-<center>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">Wellocme !🖐️🖐️🖐️ You are the vistor No.<span id="busuanzi_value_site_pv"></span>. I shall keep updating the gallary. Check it back later for more.</span>
-<center>
+<br />
+<br />
 <div>
