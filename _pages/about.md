@@ -177,8 +177,10 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p>Photos taken in New Orleans, March 2021.<br /><p>
 
 <p><img src='images/New Orleans/DSC_0926_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/New Orleans/DSC_1016_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/New Orleans/DSC_1016_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/New Orleans/DSC_0014_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1131_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/New Orleans/DSC_0006_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0104_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1152_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
