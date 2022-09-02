@@ -61,7 +61,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/NY/DSC_0917.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NY/DSC_0915_1.jpg' alt="sym" width="800" class="center"><br /><br /><br /><p>
 
-<p>Photos below are taken in Utah, Nevada, Idaho, Montana and Wyoming during the vacation in August 2022.<br /><br /><p>
+<p>Photos below are taken in Utah, Nevada, Idaho, Montana and Wyoming during the vacation in August 2022. Photos with watermark are by corresponding person. Great thanks.<br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -136,8 +136,6 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0006_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0213_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0383_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
-
 <p><img src='images/Yellostone/DSC_0791_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0843_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0987_1.JPG' alt="sym" width="800" class="center"><br /><p>
