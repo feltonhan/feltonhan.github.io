@@ -90,6 +90,12 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍Grand Teton National Park
+<p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Teton/GrandTeton-16.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Teton/GrandTeton-20.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Teton/DSC_0798_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Teton/DSC_0987_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Teton/DSC_0816_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0036_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0054_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0187_2.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -99,7 +105,6 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Teton/DSC_0634_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0756_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Teton/DSC_0773_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Teton/DSC_0474_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -130,6 +135,9 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0982_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0006_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0213_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0383_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
 <p><img src='images/Yellostone/DSC_0791_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0843_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0987_1.JPG' alt="sym" width="800" class="center"><br /><p>
