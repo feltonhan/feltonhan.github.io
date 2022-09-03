@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Felton Photo Gallary"
-description              : "Felton's Photo Gallary. All rights reserved. Feel free to contact me if you need any photos."
+title                    : "Felton's Photo Gallery"
+description              : "Felton's Photo Gallery. All rights reserved. Feel free to contact me if you need any photos."
 repository               : "RayeRen/acad-homepage.github.io"
 
 # google analytics

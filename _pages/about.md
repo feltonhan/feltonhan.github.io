@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨 Welcome
-Folks, wellcome to my photo gallary. I am a full time student and part time professional fun seeker. I take pictures of simple moment of ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, feel free to contact me if you need any photos.
+Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take pictures of simple moment of ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, feel free to contact me if you need any photos.
 
 
 
@@ -176,7 +176,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 
-# 📍Yosemite Nation Park
+# 📍Yosemite National Park
 <p>Photos taken in Yosemite Nation Park and Mammoth Village, California, August 2021.<br /><p>
 
 <p><img src='images/Yosemite/IMG_0472.JPEG' alt="sym" width="800" class="center"><br /><p>
