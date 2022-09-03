@@ -136,7 +136,12 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0006_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0213_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0383_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Yellostone/DSC_0791_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0497_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0482_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0483_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0498_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0521_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0533_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0843_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0987_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0746_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -145,11 +150,16 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0685_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0693_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0707_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0682_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0691_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0699_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0854_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0371_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0827_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0722_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0055_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0639_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_754_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0573_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
