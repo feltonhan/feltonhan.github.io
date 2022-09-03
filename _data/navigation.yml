@@ -30,9 +30,20 @@ main:
   - title: "R Day"
     url: "/#r-day"
 
+  - title: "Yosemite Nation Park"
+    url: "/#yosemite-nation-park"
+
   - title: "New Orleans"
     url: "/#new-orleans"
 
-  - title: "New Jersey"
-    url: "/#new-jersey"
+  - title: "Sandy Hook Beach"
+    url: "/#sandy-hook-beach"
 
+  - title: "Hacklebrney State Park"
+    url: "/#Hacklebrney-state-park"
+
+  - title: "Cheesequake State Park"
+    url: "/#cheesequake-state-park"
+
+  - title: "Some Univeristy"
+    url: "/#some-univeristy"
