@@ -179,7 +179,6 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/New Orleans/DSC_0926_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1016_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0093_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/New Orleans/DSC_1144_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0108_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0014_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -188,6 +187,19 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/New Orleans/DSC_0104_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1152_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
+
+
+# 📍Yosemite Nation Park
+<p>Photos taken in Yosemite Nation Park, August, 2021.<br /><p>
+
+<p><img src='images/Yosemite/IMG_0472.JPEG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yosemite/IMG_0598.JPEG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yosemite/IMG_0340_1.JPEG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yosemite/IMG_0604.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
 
 
 # 📍New Jersey
@@ -202,6 +214,17 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/New Jersey/DSC_0559_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Jersey/DSC_0652_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div>
