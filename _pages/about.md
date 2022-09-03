@@ -187,7 +187,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍New Orleans
-<p>Photos taken in New Orleans, March 2021.<br /><p>
+<p>Photos taken in New Orleans, Louisiana, March 2021.<br /><p>
 
 <p><img src='images/New Orleans/DSC_0926_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1016_2.JPG' alt="sym" width="800" class="center"><br /><p>
