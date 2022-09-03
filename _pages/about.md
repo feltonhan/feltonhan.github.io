@@ -177,7 +177,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍Yosemite Nation Park
-<p>Photos taken in Yosemite Nation Park, August, 2021.<br /><p>
+<p>Photos taken in Yosemite Nation Park and Monmouth Village, California, August 2021.<br /><p>
 
 <p><img src='images/Yosemite/IMG_0472.JPEG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yosemite/IMG_0598.JPEG' alt="sym" width="800" class="center"><br /><p>
@@ -226,7 +226,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 
 
 # 📍Cheesequake State Park
-<p>Photos taken Cheesequake State Park. New Jersey, October 2021.<br /><p>
+<p>Photos taken Cheesequake State Park, New Jersey, October 2021.<br /><p>
 
 <p><img src='images/Cheese/DSC_0037_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cheese/DSC_0035_1.JPG' alt="sym" width="800" class="center"><br /><p>
