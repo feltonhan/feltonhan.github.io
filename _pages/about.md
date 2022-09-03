@@ -195,7 +195,7 @@ Folks, wellcome to my photo gallary. I am a full time student and part time prof
 <p><img src='images/Yosemite/IMG_0472.JPEG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yosemite/IMG_0598.JPEG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yosemite/IMG_0340_1.JPEG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Yosemite/IMG_0604.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<p><img src='images/Yosemite/IMG_0604.JPEG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
