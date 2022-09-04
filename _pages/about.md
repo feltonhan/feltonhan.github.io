@@ -203,8 +203,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/New Orleans/DSC_1016_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0093_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1144_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/New Orleans/DSC_0108_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0014_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/New Orleans/DSC_0108_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_1131_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0006_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/New Orleans/DSC_0104_1.JPG' alt="sym" width="800" class="center"><br /><p>
