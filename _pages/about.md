@@ -85,6 +85,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 # 📍Antelope State Park
+<p><img src='images/Antelope/DSC_0168_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0208_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
