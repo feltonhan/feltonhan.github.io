@@ -28,6 +28,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p>Photos taken in the arear of Pyramid of the Sun and Pyramid of the Moon, Mexico.<br /> <br /> <p>
 
 <p><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_1007_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_0169_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0836.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0037.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0057.JPG' alt="sym" width="800" class="center"><br /><p>
