@@ -40,6 +40,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Mexico/DSC_0937.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0942.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_0888_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0968.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0966_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -252,11 +253,14 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # 📍Some Univeristy
 <p>Photos taken Some Univeristy, New Jersey, 2019-2022.<br /><p>
 
+<p><img src='images/RU/DSC_0102_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU/DSC_0105_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0528_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0125_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0277_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0606_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0559_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU/DSC_0249_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0652_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
