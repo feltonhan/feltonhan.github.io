@@ -19,13 +19,13 @@ redirect_from:
 
 
 # 👨 Welcome
-Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take pictures of simple moment of ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, feel free to contact me if you need any photos.
+Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, feel free to contact me if you need any photos.
 
 
 
 
 # 📍Mexico City
-<p>Photos taken in the arear of Pyramid of the Sun and Pyramid of the Moon, Mexico.<br /> <br /> <p>
+<p>Photos taken in the area of Pyramid of the Sun and Pyramid of the Moon, Mexico.<br /> <br /> <p>
 
 <p><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_1007_1.JPG' alt="sym" width="800" class="center"><br /><p>
