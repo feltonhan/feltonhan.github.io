@@ -42,7 +42,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0888_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Mexico/DSC_0968.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Mexico/DSC_0968_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0966_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0028.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0029.JPG' alt="sym" width="800" class="center"><br /><p>
