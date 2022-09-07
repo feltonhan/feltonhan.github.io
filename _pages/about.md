@@ -231,6 +231,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p>Photos taken in Sandy Hook Beach, New Jersey, October 2021.<br /><p>
 
 <p><img src='images/Sandyhook/DSC_0246_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Sandyhook/DSC_0205_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Sandyhook/DSC_0156_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Sandyhook/DSC_0240_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Sandyhook/DSC_0253_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Sandyhook/DSC_0257_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -242,10 +244,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 # 📍Cheesequake State Park
 <p>Photos taken Cheesequake State Park, New Jersey, October 2021.<br /><p>
-
+<p><img src='images/Cheese/DSC_0071_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cheese/DSC_0037_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Cheese/DSC_0205_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Cheese/DSC_0156_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cheese/DSC_0035_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cheese/DSC_0084_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
