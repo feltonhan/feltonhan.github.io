@@ -233,16 +233,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <div class='paper-box-text' markdown="1">
 
 
-# 📍Hacklebarney State Park
-<p>Photos taken in Hacklebarney State Park, New Jersey, October 2021.<br /><p>
-
-<p><img src='images/Hacklebrney/DSC_0398_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Hacklebrney/DSC_0463_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Hacklebrney/DSC_0485_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Hacklebrney/DSC_0469_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-<div class='paper-box-text' markdown="1">
-
-
 # 📍Sandy Hook Beach
 <p>Photos taken in Sandy Hook Beach, New Jersey, October 2021.<br /><p>
 
@@ -255,6 +245,19 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Sandyhook/DSC_0271_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Sandyhook/DSC_0299_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
+
+
+# 📍Hacklebarney State Park
+<p>Photos taken in Hacklebarney State Park, New Jersey, October 2021.<br /><p>
+
+<p><img src='images/Hacklebrney/DSC_0398_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Hacklebrney/DSC_0463_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Hacklebrney/DSC_0485_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Hacklebrney/DSC_0469_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
 
 
 
