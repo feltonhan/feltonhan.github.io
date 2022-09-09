@@ -22,6 +22,21 @@ redirect_from:
 Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, feel free to contact me if you need any photos.
 
 
+# 📍Moon
+<p>Photos of the Moon, NJ.<br /> <br /> <p>
+
+<p><img src='images/Moon/DSC_0250.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0251.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0252.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0253.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0254.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0255.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0256.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0257.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0258.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0259.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0260.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
 
 
 # 📍Mexico City

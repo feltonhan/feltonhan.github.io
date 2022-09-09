@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Moon"
+    url: "/#moon"
+
   - title: "Mexico City"
     url: "/#mexico-city"
 
