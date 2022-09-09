@@ -33,7 +33,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Moon/DSC_0255.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon/DSC_0256.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon/DSC_0257.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Moon/DSC_0258.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0258.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon/DSC_0259.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon/DSC_0260.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
