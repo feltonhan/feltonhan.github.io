@@ -25,9 +25,10 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # 📍Moon
 <p>Photos of the Moon, Mid-Autumn Festival 2022, NJ.<br /> <br /> <p>
 
-<p><img src='images/Moon/DSC_0250.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Moon/DSC_0253.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Moon/DSC_0260.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<p><img src='images/Moon/DSC_0250.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0253.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0257.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Moon/DSC_0260.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
