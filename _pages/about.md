@@ -83,6 +83,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Salt lake/DSC_0086_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0594_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0597_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Salt lake/DSC_0563_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Salt lake/DSC_0565_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Salt lake/DSC_0549_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
@@ -93,9 +95,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Antelope/DSC_0168_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0208_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Antelope/DSC_0563_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Antelope/DSC_0565_1.JPG' alt="sym" width="800" class="center"><br /><p><br /><br /><p>
+<p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
