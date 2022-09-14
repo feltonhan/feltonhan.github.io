@@ -95,7 +95,9 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Antelope/DSC_0168_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0208_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -135,7 +137,9 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Bearlake/DSC_0329_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0324_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Bearlake/DSC_0524_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<p><img src='images/Bearlake/DSC_0346_2.JPG' alt="sym" width="800" class="center"><br />
+<p><img src='images/Bearlake/DSC_0512_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Bearlake/DSC_0511_1.JPG' alt="sym" width="800" class="center"><br /><p><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -151,6 +155,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0213_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0383_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0497_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0904_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0640_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0482_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0483_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0498_1.JPG' alt="sym" width="800" class="center"><br /><p>
