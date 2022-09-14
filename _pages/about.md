@@ -25,8 +25,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # 📍Moon
 <p>Photos of the Moon, Mid-Autumn Festival 2022, NJ.<br /> <br /> <p>
 
-<p><img src='images/Moon/DSC_0250.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Moon/DSC_0253.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Moon/DSC_0260.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
@@ -96,8 +94,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Antelope/DSC_0208_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Antelope/DSC_0313_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Antelope/DSC_0291_1.JPG' alt="sym" width="800" class="center"><br /><p><br /><br /><p>
+<p><img src='images/Antelope/DSC_0563_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Antelope/DSC_0565_1.JPG' alt="sym" width="800" class="center"><br /><p><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
