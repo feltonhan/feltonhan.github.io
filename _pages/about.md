@@ -23,7 +23,21 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 # 📍Feast of San Gennaro
-<p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
+<p>Photos of at the Feast of San Gennaro, Little Italy, New York City,  NY, 2022.<br /> <br /> <p>
+
+<p><img src='images/RU_Sandyhook/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0670_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0688_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+# 📍R Garden and Sandyhook
+<p>Photos of at the R Garden and Sandyhook beach, NJ, 2022.<br /> <br /> <p>
 
 <p><img src='images/LittleItaly/DSC_0326_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0334_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -43,29 +57,18 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
-# R Garden and Sandyhook
-<p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
 
-<p><img src='images/RU_Sandyhook/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0670_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0688_1.JPG' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
-<div class='paper-box-text' markdown="1">
 
 
 # 📍Moon
-<p>Photos of the Moon, Mid-Autumn Festival 2022, NJ.<br /> <br /> <p>
+<p>Photos of the Moon, Mid-Autumn Festival, NJ, 2022.<br /> <br /> <p>
 
 <p><img src='images/Moon/DSC_0260.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
 # 📍Mexico City
-<p>Photos taken in the area of Pyramid of the Sun and Pyramid of the Moon, Mexico.<br /> <br /> <p>
+<p>Photos taken in the area of Pyramid of the Sun and Pyramid of the Moon, Mexico, 2022.<br /> <br /> <p>
 
 <p><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_1007_1.JPG' alt="sym" width="800" class="center"><br /><p>
