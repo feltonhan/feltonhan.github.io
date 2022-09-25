@@ -31,8 +31,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/LittleItaly/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center"><p>
-<p><img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center">
+  <img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -49,7 +49,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/RU_Sandyhook/DSC_0410_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU_Sandyhook/DSC_0418_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU_Sandyhook/DSC_0424_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RU_Sandyhook/DSC_0433_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0433_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU_Sandyhook/DSC_0461_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU_Sandyhook/DSC_0478_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
