@@ -56,10 +56,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
-
-
-
-
 # 📍Moon
 <p>Photos of the Moon, Mid-Autumn Festival, NJ, 2022.<br /> <br /> <p>
 
