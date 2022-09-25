@@ -22,7 +22,7 @@ redirect_from:
 Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
 
 
-# 📍Feast of San Gennaro 
+# 📍Feast of San Gennaro
 <p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
 
 <p><img src='images/LittleItaly/DSC_0326_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -43,7 +43,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
-# R-Garden and Sandyhook 
+# R Garden and Sandyhook
 <p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
 
 <p><img src='images/RU_Sandyhook/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
