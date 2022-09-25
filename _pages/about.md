@@ -25,14 +25,19 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # 📍Feast of San Gennaro 
 <p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
 
-<p><img src='images/LittleItaly/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0670_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center"><p>
-<p><img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<p><img src='images/LittleItaly/DSC_0326_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0334_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0336_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0338_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0356_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0348_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0343_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0410_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0418_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0424_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0433_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0461_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0478_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -41,14 +46,14 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # R-Garden and Sandyhook 
 <p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
 
-<p><img src='images/LittleItaly/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0670_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center"><p>
-<p><img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0670_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0688_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/RU_Sandyhook/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
