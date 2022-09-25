@@ -22,8 +22,24 @@ redirect_from:
 Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
 
 
-# 📍Feast of San Gennarotle Italy 
-<p>Photos of at the Feast of San Gennarotle, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
+# 📍Feast of San Gennaro 
+<p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
+
+<p><img src='images/LittleItaly/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0670_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center"><p>
+<p><img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
+
+# R-Garden and Sandyhook 
+<p>Photos of at the Feast of San Gennaro, Little Italy, New York City, 2022, NY.<br /> <br /> <p>
 
 <p><img src='images/LittleItaly/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
