@@ -93,7 +93,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/VT/DSC_0972_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
-<p><img src='images/VT/DSC_975_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0975_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0977_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0999_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_1000_1.JPG' alt="sym" width="800" class="center"><br /><p>
