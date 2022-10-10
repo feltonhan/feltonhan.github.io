@@ -61,6 +61,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/VT/DSC_0668_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0674_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0696_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0676_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0678_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0710_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0716_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0717_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -100,6 +102,9 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/VT/DSC_1002_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_1014_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_1023_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+
 
 <p><img src='images/VT/DSC_0663_1.JPG' alt="sym" width="400" class="center">
    <img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center"><br /><p>
