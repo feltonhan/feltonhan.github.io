@@ -118,7 +118,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 # 📍Feast of San Gennaro
-<p>Photos of at the Feast of San Gennaro, Little Italy, New York City,  NY, 2022.<br /> <br /> <p>
+<p>Photos taken at the Feast of San Gennaro, Little Italy, New York City,  NY, 2022.<br /> <br /> <p>
 
 <p><img src='images/LittleItaly/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
