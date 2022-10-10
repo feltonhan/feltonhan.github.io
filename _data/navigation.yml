@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Vermount"
+    url: "/#Vermount"
+
   - title: "Feast of San Gennaro"
     url: "/#feast-of-san-gennaro"
 

@@ -22,8 +22,8 @@ redirect_from:
 Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
 
 
-# 📍VT
-<p>Photos of at the Feast of San Gennaro, Little Italy, New York City,  NY, 2022.<br /> <br /> <p>
+# 📍Vermount
+<p>Photos taken during road trip to the Vermount and New York, Fall, 2022.<br /> <br /> <p>
 
 <p><img src='images/VT/DSC_0048_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>
