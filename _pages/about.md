@@ -22,6 +22,104 @@ redirect_from:
 Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
 
 
+# 📍VT
+<p>Photos of at the Feast of San Gennaro, Little Italy, New York City,  NY, 2022.<br /> <br /> <p>
+
+<p><img src='images/VT/DSC_0048_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0066_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0067_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0077_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0084_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/VT/DSC_0085_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0086_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0188_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0228_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0239_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0420_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/VT/DSC_0466_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0494_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0533_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0540_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0555_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0561_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+
+<p><img src='images/VT/DSC_0565_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0602_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0608_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0617_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0641_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0657_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+
+<p><img src='images/VT/DSC_0558_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0674_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0696_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0710_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0716_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0717_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/VT/DSC_0724_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0728_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0729_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0732_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0736_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0745_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+
+
+<p><img src='images/VT/DSC_0752_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0756_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0759_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0779_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0867_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0879_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+
+<p><img src='images/VT/DSC_0896_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0910_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0916_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0930_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0959_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0972_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/VT/DSC_975_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0977_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0999_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_1000_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_1002_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_1014_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_1023_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+
+
+<p><img src='images/VT/DSC_0663_1.JPG' alt="sym" width="400" class="center">
+   <img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+<p><img src='images/VT/DSC_0663_1.JPG' alt="sym" width="400" class="center">
+   <img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
+<p><img src='images/VT/DSC_0663_1.JPG' alt="sym" width="400" class="center">
+   <img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
 # 📍Feast of San Gennaro
 <p>Photos of at the Feast of San Gennaro, Little Italy, New York City,  NY, 2022.<br /> <br /> <p>
 
@@ -32,7 +130,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center">
-  <img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
+   <img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
