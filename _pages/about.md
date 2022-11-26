@@ -34,10 +34,10 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <p><img src='images/VT/DSC_0085_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0086_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0188_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0188_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0228_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0239_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0420_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0420_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 
 
 <p><img src='images/VT/DSC_0466_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -52,7 +52,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/VT/DSC_0565_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0602_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0608_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0617_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0617_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0641_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0657_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
@@ -61,19 +61,19 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/VT/DSC_0668_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0674_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0696_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0676_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0678_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0676_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0678_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0710_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0716_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0717_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0717_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 
 
 <p><img src='images/VT/DSC_0724_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0728_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0729_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0732_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0729_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<!--<p><img src='images/VT/DSC_0732_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0736_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0745_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0745_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 
 
 
@@ -81,13 +81,13 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/VT/DSC_0752_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0756_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0759_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0779_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0779_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0867_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0879_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0879_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 
 
 
-<p><img src='images/VT/DSC_0896_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0896_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0910_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0916_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0930_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -104,8 +104,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/VT/DSC_1023_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
-<p><img src='images/VT/DSC_0027_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0059_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<!--<p><img src='images/VT/DSC_0027_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/VT/DSC_0059_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0152_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0172_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0209_1.JPG' alt="sym" width="800" class="center"><br /><p>
