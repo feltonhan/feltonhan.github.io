@@ -64,8 +64,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <!--<p><img src='images/VT/DSC_0676_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0678_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0710_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/VT/DSC_0716_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<!--<p><img src='images/VT/DSC_0717_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<!--<p><img src='images/VT/DSC_0716_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<p><img src='images/VT/DSC_0717_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
 <p><img src='images/VT/DSC_0724_1.JPG' alt="sym" width="800" class="center"><br /><p>
