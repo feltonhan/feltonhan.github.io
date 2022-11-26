@@ -27,10 +27,9 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Harriman/DSC_0066_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Harriman/DSC_0067_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Harriman/DSC_0077_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Harriman/DSC_0084_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Harriman/DSC_0832.JPG' alt="sym" width="400" class="center">
+   <img src='images/Harriman/DSC_0833.JPG' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 
 
 
