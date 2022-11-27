@@ -4,10 +4,10 @@ main:
     url: "/#welcome"
 
   - title: "Harriman State Park"
-    url: "/#Harriman-State-Park"
+    url: "/#harriman-state-park"
 
-  - title: "Vermount"
-    url: "/#vermount"
+  - title: "Vermont"
+    url: "/#vermont"
 
   - title: "Feast of San Gennaro"
     url: "/#feast-of-san-gennaro"
