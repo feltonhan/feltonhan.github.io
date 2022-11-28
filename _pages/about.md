@@ -309,9 +309,9 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0982_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0006_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<!--<p><img src='images/Yellostone/DSC_0204_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
-<p><img src='images/Yellostone/DSC_0211_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<!--<p><img src='images/Yellostone/DSC_0213_2.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<!--<p><img src='images/Yellostone/DSC_0204_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Yellostone/DSC_0211_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<p><img src='images/Yellostone/DSC_0213_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0383_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0497_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0904_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -449,7 +449,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <div>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Wellocme !🖐️🖐️🖐️ You are the vistor No.<span id="busuanzi_value_site_pv"></span>. I shall keep updating the gallary. Check it back later for more.</span>
+<span id="busuanzi_container_site_pv">Wellocme !🖐️🖐️🖐️ You are the vistor No.<span id="busuanzi_value_site_pv"></span>. I shall keep updating the gallery. Check it back later for more.</span>
 <br />
 <br />
 <div>
