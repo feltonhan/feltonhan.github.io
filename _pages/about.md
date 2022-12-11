@@ -24,12 +24,13 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  font-family: Arial;
-  font-size: 17px;
+  font-family: Lucida Calligraphy;
+  font-size: 30px;
 }
 
 .watermarked {
@@ -37,22 +38,25 @@ body {
 }
 
 .watermarked:after {
-  content: "Feng Han";
+  content: "@Feng Han";
   display: block;
   width: 100%;
   height: 100%;
   position: absolute;
-  top: 100px;
-  left: 100px;
-  background-image: url("");
-  background-size: 100px 100px;
-  background-position: 100px 100px;
-  background-repeat: no-repeat;
-  opacity: 0.7;
+  top: 400px;
+  left: 580px;
+  opacity: 1;
 }
 </style>
 </head>
 <body>
+
+
+<div class="watermarked">
+  <img src="https://feltonhan.github.io/images/Harriman/DSC_0827.JPG" alt="Photo"  width="800" class="center">
+</div>
+
+
 
 
 # Harriman State Park
