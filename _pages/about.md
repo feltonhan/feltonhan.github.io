@@ -22,6 +22,39 @@ redirect_from:
 Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
 
 
+
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial;
+  font-size: 17px;
+}
+
+.watermarked {
+  position: relative;
+}
+
+.watermarked:after {
+  content: "Feng Han";
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  background-image: url("");
+  background-size: 100px 100px;
+  background-position: 100px 100px;
+  background-repeat: no-repeat;
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
+
+
 # Harriman State Park
 <p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
 
