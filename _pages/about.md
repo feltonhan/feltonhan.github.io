@@ -132,22 +132,35 @@ body {
 <div class="watermarked">
 <p><img src='images/VT/DSC_0657_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
+
+
 <div class="watermarked">
-
-
-
 <p><img src='images/VT/DSC_0668_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0674_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0696_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <!--<p><img src='images/VT/DSC_0676_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0678_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0710_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <!--<p><img src='images/VT/DSC_0716_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0717_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 
 
+<div class="watermarked">
 <p><img src='images/VT/DSC_0724_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0728_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <!--<p><img src='images/VT/DSC_0729_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <!--<p><img src='images/VT/DSC_0732_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0736_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -157,8 +170,13 @@ body {
 
 
 <p><img src='images/VT/DSC_0752_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0756_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0759_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 <!--<p><img src='images/VT/DSC_0779_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0867_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0879_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
@@ -166,21 +184,43 @@ body {
 
 
 <!--<p><img src='images/VT/DSC_0896_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<div class="watermarked">
 <p><img src='images/VT/DSC_0910_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0916_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0930_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0959_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0972_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 
-
+<div class="watermarked">
 <p><img src='images/VT/DSC_0975_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0977_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0999_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_1000_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_1002_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_1014_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_1023_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
+<div>
 
 <!--<p><img src='images/VT/DSC_0027_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0059_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
