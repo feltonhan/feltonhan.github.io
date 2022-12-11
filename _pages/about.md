@@ -33,12 +33,29 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
   content: "@FeltonHan";
   display: block;
   position: absolute;
-  top: 88%;
-  left: 80%;
+  font-size: 15px;
+  top: 8%;
+  right: 2%;
   opacity: 	0.85;
 }
 </style>
 
+
+
+<style>
+.watermarked2 {
+  position: absolute;
+}
+
+.watermarked2:after {
+  content: "@FeltonHan";
+  display: block;
+  position: absolute;
+  top: 1%;
+  left: 5%;
+  opacity: 	0.85;
+}
+</style>
 
 
 # Harriman State Park
@@ -49,6 +66,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <div class="watermarked">
 <p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
+
 <p><img src='images/Harriman/DSC_0832.JPG' alt="sym" width="400" class="center">
    <img src='images/Harriman/DSC_0833.JPG' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
