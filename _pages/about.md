@@ -31,7 +31,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 .watermarked:after {
   content: "@FeltonHan";
-  font-size: 25px;
+  display: block;
   position: absolute;
   top: 88%;
   left: 80%;
@@ -156,7 +156,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <div class="watermarked">
 <p><img src='images/VT/DSC_0728_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
-<div class="watermarked">
 <!--<p><img src='images/VT/DSC_0729_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <!--<p><img src='images/VT/DSC_0732_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0736_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -164,7 +163,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
-
+<div class="watermarked">
 <p><img src='images/VT/DSC_0752_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
 <div class="watermarked">
@@ -271,7 +270,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <div class="watermarked">
 <p><img src='images/VT/DSC_0947_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
-
+<br /><br /><p>
 
 
 <p><img src='images/VT/DSC_0663_1.JPG' alt="sym" width="400" class="center">
@@ -304,6 +303,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <div class="watermarked">
 <p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
+<br /><br /><br /><p>
 
 <p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center">
    <img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
