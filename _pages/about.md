@@ -42,20 +42,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
-<style>
-.watermarked2 {
-  position: absolute;
-}
-
-.watermarked2:after {
-  content: "@FeltonHan";
-  display: block;
-  position: absolute;
-  top: 1%;
-  left: 5%;
-  opacity: 	0.85;
-}
-</style>
 
 
 # Harriman State Park
