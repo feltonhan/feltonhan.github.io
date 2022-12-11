@@ -30,7 +30,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <style>
 body {
   font-family: Lucida Calligraphy;
-  font-size: 30px;
+  font-size: 325x;
 }
 
 .watermarked {
@@ -38,13 +38,13 @@ body {
 }
 
 .watermarked:after {
-  content: "@Feng Han";
+  content: "@Felton Han";
   display: block;
   width: 100%;
   height: 100%;
   position: absolute;
   top: 400px;
-  left: 580px;
+  left: 600px;
   opacity: 1;
 }
 </style>
