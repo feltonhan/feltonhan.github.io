@@ -26,7 +26,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <style>
 body {
-  font-size: 30x;
+  font-size: 25px;
 }
 
 .watermarked {
@@ -37,9 +37,9 @@ body {
   content: "@FeltonHan";
   display: block;
   position: absolute;
-  top: 420px;
-  left: 700px;
-  opacity: 	1;
+  top: 410px;
+  left: 650px;
+  opacity: 	0.65;
 }
 </style>
 
@@ -54,8 +54,10 @@ body {
 
 # Harriman State Park
 <p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
-
+<div class="watermarked">
 <p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+
 <p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Harriman/DSC_0832.JPG' alt="sym" width="400" class="center">
    <img src='images/Harriman/DSC_0833.JPG' alt="sym" width="400" class="center"><br /><p>
