@@ -26,7 +26,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <style>
 body {
-  font-family: Lucida Calligraphy;
   font-size: 25x;
 }
 
@@ -42,14 +41,14 @@ body {
   position: absolute;
   top: 400px;
   left: 600px;
-  opacity: 1;
+  opacity: 0.7;
 }
 </style>
 
 
 
 <div class="watermarked">
-  <img src="https://feltonhan.github.io/images/Harriman/DSC_0827.JPG" alt="Photo"  width="800" class="center">
+  <p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
 </div>
 
 
