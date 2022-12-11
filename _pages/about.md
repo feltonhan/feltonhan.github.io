@@ -286,12 +286,25 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # 📍Feast of San Gennaro
 <p>Photos taken at the Feast of San Gennaro, Little Italy, New York City,  NY, 2022.<br /> <br /> <p>
 
+<div class="watermarked">
 <p><img src='images/LittleItaly/DSC_0659_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/LittleItaly/DSC_0675_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/LittleItaly/DSC_0670_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/LittleItaly/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+
 <p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center">
    <img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
@@ -300,19 +313,45 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # 📍R Garden and Sandyhook
 <p>Photos of at the R Garden and Sandyhook beach, NJ, 2022.<br /> <br /> <p>
 
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0326_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0334_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0336_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0338_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0356_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0348_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0343_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0410_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0418_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0424_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0433_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0461_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/RU_Sandyhook/DSC_0478_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -320,37 +359,83 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 # 📍Moon
 <p>Photos of the Moon, Mid-Autumn Festival, NJ, 2022.<br /> <br /> <p>
 
+<div class="watermarked">
 <p><img src='images/Moon/DSC_0260.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div>
 <div class='paper-box-text' markdown="1">
 
 
 # 📍Mexico City
 <p>Photos taken in the area of Pyramid of the Sun and Pyramid of the Moon, Mexico, 2022.<br /> <br /> <p>
 
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0142_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_1007_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0169_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0836_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <!--<p><img src='images/Mexico/DSC_0037.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Mexico/DSC_0057.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/Mexico/DSC_0156.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0176.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0071_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0133_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0937.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0942.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0912.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0888_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0972.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0968_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0966_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0028.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0029.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0007_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_0997_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_1026.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_1028.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/Mexico/DSC_1018_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div>
 <div class='paper-box-text' markdown="1">
 
 
