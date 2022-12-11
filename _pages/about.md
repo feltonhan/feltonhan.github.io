@@ -45,20 +45,14 @@ body {
 
 
 
-<div class="watermarked">
-  <p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
-</div>
-
-
-
-
 # Harriman State Park
 <p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
 <div class="watermarked">
 <p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
-
+<div class="watermarked">
 <p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 <p><img src='images/Harriman/DSC_0832.JPG' alt="sym" width="400" class="center">
    <img src='images/Harriman/DSC_0833.JPG' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
@@ -67,37 +61,78 @@ body {
 
 # Vermont
 <p>Photos taken during road trip to the Vermont and New York, Fall, 2022.<br /> <br /> <p>
-
+<div class="watermarked">
 <p><img src='images/VT/DSC_0048_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0066_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0067_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0077_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0084_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 
 <p><img src='images/VT/DSC_0085_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0086_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 <!--<p><img src='images/VT/DSC_0188_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<div class="watermarked">
 <p><img src='images/VT/DSC_0228_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0239_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+
 <!--<p><img src='images/VT/DSC_0420_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 
-
+<div class="watermarked">
 <p><img src='images/VT/DSC_0466_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0494_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0533_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0540_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0555_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0556_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 
 
-
+<div class="watermarked">
 <p><img src='images/VT/DSC_0565_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0602_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0608_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <!--<p><img src='images/VT/DSC_0617_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0641_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0657_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 
 
 
