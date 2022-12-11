@@ -36,7 +36,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
   position: absolute;
   top: 410px;
   left: 650px;
-  opacity: 	0.8;
+  opacity: 	0.75;
 }
 </style>
 
@@ -221,27 +221,58 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <!--<p><img src='images/VT/DSC_0027_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0059_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0152_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0172_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0209_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0254_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0277_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 
-
-
+<div class="watermarked">
 <p><img src='images/VT/DSC_0455_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0468_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0470_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0471_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0476_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0486_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0491_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0586_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0596_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
 
-
+<div class="watermarked">
 <p><img src='images/VT/DSC_0722_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+<div class="watermarked">
 <p><img src='images/VT/DSC_0947_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div>
+
 
 
 <p><img src='images/VT/DSC_0663_1.JPG' alt="sym" width="400" class="center">
