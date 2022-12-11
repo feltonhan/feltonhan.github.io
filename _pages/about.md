@@ -35,7 +35,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
   position: absolute;
   font-size: 15px;
   bottom: 8%;
-  right: 2%;
+  left: 2%;
   opacity: 	0.85;
 }
 </style>
