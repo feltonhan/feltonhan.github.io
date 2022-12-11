@@ -25,16 +25,13 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 <style>
-body {
-  font-size: 25px;
-}
-
 .watermarked {
   position: relative;
 }
 
 .watermarked:after {
   content: "@FeltonHan";
+  font-size: 25px;
   display: block;
   position: absolute;
   top: 410px;
