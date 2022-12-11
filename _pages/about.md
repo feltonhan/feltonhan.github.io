@@ -26,7 +26,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <style>
 body {
-  font-size: 25x;
+  font-size: 30x;
 }
 
 .watermarked {
@@ -34,14 +34,12 @@ body {
 }
 
 .watermarked:after {
-  content: "@Felton Han";
+  content: "@FeltonHan";
   display: block;
-  width: 100%;
-  height: 100%;
   position: absolute;
-  top: 400px;
-  left: 600px;
-  opacity: 0.7;
+  top: 420px;
+  left: 700px;
+  opacity: 	1;
 }
 </style>
 
