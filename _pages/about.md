@@ -26,17 +26,16 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 <style>
 .watermarked {
-  position: relative;
+  position: absolute;
 }
 
 .watermarked:after {
   content: "@FeltonHan";
   font-size: 25px;
-  display: block;
   position: absolute;
-  top: 410px;
-  left: 650px;
-  opacity: 	0.75;
+  top: 88%;
+  left: 80%;
+  opacity: 	0.85;
 }
 </style>
 
