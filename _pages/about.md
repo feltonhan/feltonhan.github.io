@@ -27,7 +27,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <style>
 body {
   font-family: Lucida Calligraphy;
-  font-size: 325x;
+  font-size: 25x;
 }
 
 .watermarked {
