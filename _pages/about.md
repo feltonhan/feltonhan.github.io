@@ -35,8 +35,8 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
   position: absolute;
   font-size: 15px;
   top: 8%;
-  right: 2%;
-  opacity: 	1;
+  left: 2%;
+  opacity: 	0.9;
 }
 </style>
 
@@ -50,6 +50,7 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <div class="watermarked">
 <p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
 <div>
+<div class='paper-box-text' markdown="1">
 
 <p><img src='images/Harriman/DSC_0832.JPG' alt="sym" width="400" class="center">
    <img src='images/Harriman/DSC_0833.JPG' alt="sym" width="400" class="center"><br /><p>
