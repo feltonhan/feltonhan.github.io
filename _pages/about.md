@@ -25,8 +25,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
-
-
 <style>
 
 .watermarked {
@@ -53,10 +51,10 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
 <div class="watermarked">
 <p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
-<div>
+</div>
 <div class="watermarked">
 <p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
-<div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 <p><img src='images/Harriman/DSC_0832.JPG' alt="sym" width="400" class="center">
