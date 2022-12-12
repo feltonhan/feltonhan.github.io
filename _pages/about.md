@@ -24,28 +24,10 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 
-<style>
-.watermarked {
-  position: absolute;
-}
 
-.watermarked:after {
-  content: "@FeltonHan";
-  display: block;
-  position: absolute;
-  font-size: 15px;
-  top: 8%;
-  left: 2%;
-  opacity: 	0.9;
-}
-</style>
 
 
 <style>
-* {
-  box-sizing: border-box;
-}
-
 
 .watermarked {
   position: absolute;
