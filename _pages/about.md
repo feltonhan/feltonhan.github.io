@@ -21,6 +21,19 @@ redirect_from:
 # 👨 Welcome
 Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
 
+逍遥游<br />
+
+它日纵马天涯，览尽晓月繁花。<br />
+江南俏吴娃，悉数而归家，潘安羞煞。<br />
+蓬莱瀛洲方丈，万古何其苍茫。太真应犹在，宜将驾鹤神往。<br />
+北国万里雪飘，仗剑狂舞醉卧。南洋巨浪滔，执抢血战恶蛟。<br />
+东都霞色方好，熏风暖日桃夭。西湖翠波渺，季鹰莼鲈相邀。<br />
+蜀中山光锦绣，相如赋诗交游。垆边见霜雪，岂是醉心醇酒。<br />
+南山深林明月，幽径矮屋白雪。心喜遇摩诘，操琴长啸漫夜。<br />
+休道洛悠汉广，神女应是无恙。兰舟碧波荡，何来怅惘。<br />
+莫言五岳三山险，太白沽酒与寻仙。笑看沧海桑田，天上人间。<br />
+齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
+年少若风流，夫复何求。<br />
 
 # Harriman State Park
 <p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
