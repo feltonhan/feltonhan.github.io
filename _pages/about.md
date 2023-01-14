@@ -38,8 +38,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 
 
 # 📍Death Valley National Park
-<p>Photos taken in Death Valley National Park and Sandyhook beach, CA, 2023.<br /> <br /> <p>
-
+<p>Photos taken in Death Valley National Park and Sandyhook beach, CA, January 2023.<br /> <br /> <p>
 
 <p><img src='images/DeathValley/DSC_0077.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0079.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -65,15 +64,32 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 
 
 # 📍Seven Migic Mountain
-<p>Photos taken in Seven Migic Mountain, NV, 2023.<br /> <br /> <p>
+<p>Photos taken in Seven Migic Mountain, NV, January 2023.<br /> <br /> <p>
 <p><img src='images/SevenMigic/DSC_0221_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 <p><img src='images/SevenMigic/DSC_0186_1.JPG' alt="sym" width="400" class="center">
    <img src='images/SevenMigic/DSC_0194_1.JPG' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
+
+
+# 📍Valley of Fire State Park
+<p>Photos taken in Valley of Fire State Park, NV, January 2023.<br /> <br /> <p>
+<p><img src='images/ValleyFire/DSC_0425_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/ValleyFire/DSC_0310_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/ValleyFire/DSC_0352_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/ValleyFire/DSC_0370_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/ValleyFire/DSC_0308_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/ValleyFire/DSC_0402_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/ValleyFire/DSC_0420_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+<p><img src='images/ValleyFire/DSC_0348_1.JPG' alt="sym" width="400" class="center">
+   <img src='images/ValleyFire/DSC_0357_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
 # 📍Hoover Dam
-<p>Photos taken in Hoover Dam, NV, 2023.<br /> <br /> <p>
+<p>Photos taken in Hoover Dam, NV, January 2023.<br /> <br /> <p>
 <p><img src='images/HooverDam/DSC_0009_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/HooverDam/DSC_0087_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/HooverDam/DSC_0943_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -82,10 +98,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 
 
 
-
-
-# 📍Grand Canyon-Parashant National Monument
-<p>Photos taken in Grand Canyon-Parashant National Monument, AZ, 2023.<br /> <br /> <p>
+# 📍Grand Canyon National Monument
+<p>Photos taken in Grand Canyon-Parashant National Monument, AZ, January 2023.<br /> <br /> <p>
 
 
 <p><img src='images/GrandCanyon/DSC_0011_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -98,7 +112,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 <p><img src='images/GrandCanyon/DSC_0056_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0117_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0144_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/GrandCanyon/DSC_0943_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0943_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 <p><img src='images/GrandCanyon/DSC_0070_1.JPG' alt="sym" width="400" class="center">
@@ -107,7 +121,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 
 
 
-# Harriman State Park
+# 📍Harriman State Park
 <p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
 <p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -118,7 +132,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 
 
 
-# Vermont
+# 📍Vermont
 <p>Photos taken during road trip to the Vermont and New York, Fall, 2022.<br /> <br /> <p>
 <p><img src='images/VT/DSC_0048_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>

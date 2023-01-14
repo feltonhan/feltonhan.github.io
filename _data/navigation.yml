@@ -6,9 +6,17 @@ main:
   - title: "Death Valley National Park"
     url: "/#death-valley-national-park"
 
+  - title: "Seven Migic Mountain"
+    url: "/#seven-migic-mountain"
+
+  - title: "Valley of Fire State Park"
+    url: "/#valley-of-fire-state-park"
 
   - title: "Hoover Dam"
     url: "/#hoover-dam"
+
+  - title: "Grand Canyon National Monument"
+    url: "/#grand-canyon-national-monument"
 
   - title: "Harriman State Park"
     url: "/#harriman-state-park"
