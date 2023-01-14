@@ -19,14 +19,14 @@ redirect_from:
 
 
 # 👨 Welcome
-Folks, wellcome to my photo gallery. I am a full time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
+Folks, welcome to my photo gallery. I am a full-time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
 
-# 逍遥游<br />
+# 逍遥游
 
 它日纵马天涯，览尽晓月繁花。<br />
 江南俏吴娃，悉数而归家，潘安羞煞。<br />
 蓬莱瀛洲方丈，万古何其苍茫。太真应犹在，宜将驾鹤神往。<br />
-北国万里雪飘，仗剑狂舞醉卧。南洋巨浪滔，执抢血战恶蛟。<br />
+北国万里雪飘，仗剑狂舞醉卧。南洋巨浪滔，执枪血战恶蛟。<br />
 东都霞色方好，熏风暖日桃夭。西湖翠波渺，季鹰莼鲈相邀。<br />
 蜀中山光锦绣，相如赋诗交游。垆边见霜雪，岂是醉心醇酒。<br />
 南山深林明月，幽径矮屋白雪。心喜遇摩诘，操琴长啸漫夜。<br />
@@ -35,15 +35,47 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
 年少若风流，夫复何求。<br />
 
-# Harriman State Park
-<p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
 
-<p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
+# 📍Death Valley National Park
+<p>Photos taken in Death Valley National Park and Sandyhook beach, CA, 2023.<br /> <br /> <p>
 
+
+<p><img src='images/DeathValley/DSC_0077.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0079.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0186.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0220.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0264_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0276.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0339.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0341.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0255.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0366.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0391.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0396.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0409.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0435.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0508.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0558.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0610_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0619_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0668.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DeathValley/DSC_0481.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
+
+
+
+
+
+
+
+
+# Harriman State Park
+<p>Photos taken in Harriman State Park, NY, Winter, 2022.<br /> <br /> <p>
+<p><img src='images/Harriman/DSC_0827.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Harriman/DSC_0840.JPG' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 <p><img src='images/Harriman/DSC_0832.JPG' alt="sym" width="400" class="center">
    <img src='images/Harriman/DSC_0833.JPG' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
@@ -52,20 +84,12 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 # Vermont
 <p>Photos taken during road trip to the Vermont and New York, Fall, 2022.<br /> <br /> <p>
-
 <p><img src='images/VT/DSC_0048_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0057_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0066_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0067_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0077_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0084_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
-
 <p><img src='images/VT/DSC_0085_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/VT/DSC_0086_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -73,7 +97,6 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 <!--<p><img src='images/VT/DSC_0188_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 
 <p><img src='images/VT/DSC_0228_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0239_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
@@ -81,29 +104,21 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 
 <p><img src='images/VT/DSC_0466_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0494_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0533_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0540_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0555_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0556_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
 
 
 <p><img src='images/VT/DSC_0565_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0602_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0608_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 <!--<p><img src='images/VT/DSC_0617_1.JPG' alt="sym" width="800" class="center"><br /><p>-->
 <p><img src='images/VT/DSC_0641_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/VT/DSC_0657_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
@@ -704,26 +719,15 @@ Folks, wellcome to my photo gallery. I am a full time student and part time prof
 
 # 📍Some Univeristy
 <p>Photos taken Some Univeristy, New Jersey, 2019-2022.<br /><p>
-
-
 <p><img src='images/RU/DSC_0102_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0105_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0528_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0125_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0277_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0606_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0559_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0249_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/RU/DSC_0652_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-
 <div class='paper-box-text' markdown="1">
 
 
