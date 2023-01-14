@@ -67,7 +67,44 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 
 
 
+# 📍Hoover Dam
+<p>Photos taken in Hoover Dam, NV, 2023.<br /> <br /> <p>
 
+
+<p><img src='images/HooverDam/DSC_0009_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/HooverDam/DSC_0087_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/HooverDam/DSC_0943_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/HooverDam/DSC_1012_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
+
+
+
+# 📍Grand Canyon-Parashant National Monument
+<p>Photos taken in Grand Canyon-Parashant National Monument, AZ, 2023.<br /> <br /> <p>
+
+
+<p><img src='images/GrandCanyon/DSC_0011_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0080_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0055_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0110_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/GrandCanyon/DSC_0112_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0152_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/GrandCanyon/DSC_0056_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0117_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0144_2.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/GrandCanyon/DSC_0943_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/GrandCanyon/DSC_1012_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+<p><img src='images/GrandCanyon/DSC_0070_1.JPG' alt="sym" width="400" class="center">
+   <img src='images/GrandCanyon/DSC_0873_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 
 
 
