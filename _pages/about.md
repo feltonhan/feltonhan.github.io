@@ -38,7 +38,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 
 
 # 📍Death Valley National Park
-<p>Photos taken in Death Valley National Park and Sandyhook beach, CA, January 2023.<br /> <br /> <p>
+<p>Photos taken in Death Valley National Park, CA, January 2023.<br /> <br /> <p>
 
 <p><img src='images/DeathValley/DSC_0077.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0079.JPG' alt="sym" width="800" class="center"><br /><p>
