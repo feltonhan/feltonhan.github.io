@@ -51,14 +51,13 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 <p><img src='images/DeathValley/DSC_0366.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0391.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0396.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DeathValley/DSC_0409.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0435.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0508.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0558.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0610_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0619_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0668.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DeathValley/DSC_0481.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<p><img src='images/DeathValley/DSC_0681.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
