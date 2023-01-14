@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨 Welcome
-Folks, welcome to my photo gallery. I am a full-time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved. However, personal use is free.
+Folks, welcome to my photo gallery. I am a full-time student and part time professional fun seeker. I take photos of simple moment and ordinary people. All photos are in 16:9 size (6000 by 3375) and are ready for lock-screen and background. All rights reserved.
 
 # 逍遥游
 
