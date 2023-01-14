@@ -64,19 +64,21 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 <div class='paper-box-text' markdown="1">
 
 
-
-
+# 📍Seven Migic Mountain
+<p>Photos taken in Seven Migic Mountain, NV, 2023.<br /> <br /> <p>
+<p><img src='images/SevenMigic/DSC_0221_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+<p><img src='images/SevenMigic/DSC_0186_1.JPG' alt="sym" width="400" class="center">
+   <img src='images/SevenMigic/DSC_0194_1.JPG' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 
 # 📍Hoover Dam
 <p>Photos taken in Hoover Dam, NV, 2023.<br /> <br /> <p>
-
-
 <p><img src='images/HooverDam/DSC_0009_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/HooverDam/DSC_0087_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/HooverDam/DSC_0943_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/HooverDam/DSC_1012_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
-
 
 
 
@@ -90,7 +92,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 <p><img src='images/GrandCanyon/DSC_0080_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0055_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0110_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
 <p><img src='images/GrandCanyon/DSC_0112_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0152_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
@@ -98,8 +99,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 <p><img src='images/GrandCanyon/DSC_0117_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0144_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0943_1.JPG' alt="sym" width="800" class="center"><br /><p>
-
-<p><img src='images/GrandCanyon/DSC_1012_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 <p><img src='images/GrandCanyon/DSC_0070_1.JPG' alt="sym" width="400" class="center">
