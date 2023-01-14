@@ -48,7 +48,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part time profe
 <p><img src='images/DeathValley/DSC_0276.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0339.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0341.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DeathValley/DSC_0255.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0366.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0391.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DeathValley/DSC_0396.JPG' alt="sym" width="800" class="center"><br /><p>
