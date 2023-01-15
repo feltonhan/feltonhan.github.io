@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨 Welcome
-Folks, welcome to my photo gallery. I am a full-time student and part-time professional fun-seeker. I take photos of simple moment and ordinary people. All rights reserved. Feel free to contact me for anyone you needed.
+Folks, welcome to my photo gallery. I am a full-time student and part-time professional fun-seeker. I take photos of simple moment and ordinary people. All rights reserved. Feel free to contact me for any one you needed.
 
 # 逍遥游
 
