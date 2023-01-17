@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Felton"
   avatar           : "images/horse.png"
-  bio              : "Some University"
-  location         : "USA"
+  bio              : "Rutgers University"
+  location         : "Piscataway, NJ, USA"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
