@@ -38,10 +38,12 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 # 游拉斯维加斯
 
-其时，岁次壬寅，气在小寒。泽西肃杀，数月雨雪不下。草木为之凋敝，禽兽因而不动。感西北温热，征候宜人，于是遂西焉。<br />
+其时，岁次壬寅，气在小寒。泽西肃杀，数月雨雪不下。草木为之凋敝，禽兽因而不动。西北温热，征候宜嘉，于是遂西焉。<br />
 
 壬寅冬腊，冯虚内华。<br />
-万里之遥，半日既达。<br />
+万里之遥，须臾既达。<br />
+驱车为驷，徒步是驾。<br />
+西出南加，东进桑那。<br />
 其风萧瑟，犹有淑雅。<br />
 其日高照，温而不大。<br />
 其城雄阔，楼林列坐。<br />
@@ -50,7 +52,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 其原尽枯，广大且阔。<br />
 其山雄倚，白雪为冠，赤朱以为色。<br />
 其谷邃深，千韧难测。<br />
-其水汤汤，曲蜒如河。<br />
+其水汤汤，曲蜒如折。<br />
 其石光怪，耸峙僻野。<br />
 其兽群集，闲暇不已。<br />
 其鸟高飞，凌空盘旋，而如初释逸。<br />
@@ -58,7 +60,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 其草多枯，有绿疏稀。<br />
 登高山，临深渊，跨通谷，涉平原。<br />
 揽胜景，精怡然，抚朝夕，久盘桓。<br />
-恨时短，将去远。<br />
+恨时微，将去远，有来日，会当返。<br />
+
 
 # 📍Death Valley National Park
 <p>Photos taken in Death Valley National Park, CA, January 2023.<br /> <br /> <p>
