@@ -56,7 +56,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 其鸟高飞，凌空盘旋，而如初释逸。<br />
 其木百态，肢怪形奇。<br />
 其草多枯，有绿疏稀。<br />
-登高山，临深渊，跨通谷，步平原。<br />
+登高山，临深渊，跨通谷，涉平原。<br />
 揽胜景，精怡然，抚朝夕，久盘桓。<br />
 恨时短，将去远。<br />
 
