@@ -87,7 +87,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 # 📍Seven Migic Mountain
 <p>Photos taken in Seven Migic Mountain, NV, January 2023.<br /> <br /> <p>
 <p><img src='images/SevenMigic/DSC_0221_1.JPG' alt="sym" width="800" class="center"><br /><p>
-<div class='paper-box-text' markdown="1">
 <p><img src='images/SevenMigic/DSC_0186_1.JPG' alt="sym" width="400" class="center">
    <img src='images/SevenMigic/DSC_0194_1.JPG' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
@@ -103,7 +102,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <p><img src='images/ValleyFire/DSC_0308_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/ValleyFire/DSC_0402_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/ValleyFire/DSC_0420_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-<div class='paper-box-text' markdown="1">
 
 <p><img src='images/ValleyFire/DSC_0348_1.JPG' alt="sym" width="400" class="center">
    <img src='images/ValleyFire/DSC_0357_1.JPG' alt="sym" width="400" class="center"><br /><p>
@@ -133,7 +131,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <p><img src='images/GrandCanyon/DSC_0056_2.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0117_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/GrandCanyon/DSC_0144_2.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
-<div class='paper-box-text' markdown="1">
 
 <p><img src='images/GrandCanyon/DSC_0070_1.JPG' alt="sym" width="400" class="center">
    <img src='images/GrandCanyon/DSC_0073_1.JPG' alt="sym" width="400" class="center"><br /><p>
