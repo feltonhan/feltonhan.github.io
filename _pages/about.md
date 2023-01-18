@@ -50,7 +50,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 其原尽枯，广大且阔。<br />
 其山雄倚，白雪为冠，赤朱以为色。<br />
 其谷邃深，千韧难测。<br />
-其水涛涛，曲蜒如河。<br />
+其水汤汤，曲蜒如河。<br />
 其石光怪，耸峙僻野。<br />
 其兽群集，闲暇不已。<br />
 其鸟高飞，凌空盘旋，而如初释逸。<br />
