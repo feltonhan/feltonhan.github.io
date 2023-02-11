@@ -38,7 +38,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 # 游拉斯维加斯
 
-其时，岁次壬寅，气在小寒。泽西肃杀，数月雨雪不下。草木为之凋敝，禽兽因而不动。西北温热，征候宜嘉，于是遂西焉。<br />
+其时，岁次壬寅，气在小寒。泽西肃杀，数月雨雪不下。草木为之凋敝，禽兽因而不动。西土温热，征候宜嘉，于是遂西焉。<br />
 
 壬寅冬腊，冯虚内华。<br /> 
 万里之遥，须臾既达。<br />
@@ -55,7 +55,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 其山雄倚，白雪为冠，赤朱以为色。<br />
 其谷邃深，千韧难测。<br />
 其水汤汤，曲蜒如折。<br />
-其石光怪，耸峙僻野。<br />
+其石光怪，耸峙高阁。<br />
 其兽群集，闲暇不已。<br />
 其鸟高飞，凌空盘旋，而如初释逸。<br />
 其木百态，肢怪形奇。<br />
