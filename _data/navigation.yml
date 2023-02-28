@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Snow 2023"
+    url: "/snow-2023"
+
   - title: "Death Valley National Park"
     url: "/#death-valley-national-park"
 
