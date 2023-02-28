@@ -802,7 +802,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 
-# 📍Some Univeristy
+# 📍R Univeristy
 <p>Photos taken Some Univeristy, New Jersey, 2019-2022.<br /><p>
 <p><img src='images/RU/DSC_0102_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0105_1.JPG' alt="sym" width="800" class="center"><br /><p>
