@@ -38,7 +38,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 
-# 📍Snow 2023
+# 📍Snow
 <p>Photos taken in February, 2023.<br /> <br /> <p>
 <p><img src='images/snow_2023/DSC_0613.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/snow_2023/DSC_0579.JPG' alt="sym" width="800" class="center"><br /><p>

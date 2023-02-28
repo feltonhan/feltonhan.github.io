@@ -3,8 +3,8 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
-  - title: "Snow 2023"
-    url: "/snow-2023"
+  - title: "Snow"
+    url: "/snow"
 
   - title: "Death Valley National Park"
     url: "/#death-valley-national-park"
@@ -78,5 +78,5 @@ main:
   - title: "Cheesequake State Park"
     url: "/#cheesequake-state-park"
 
-  - title: "Some Univeristy"
-    url: "/#some-univeristy"
+  - title: "R Univeristy"
+    url: "/#r-univeristy"
