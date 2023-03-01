@@ -4,7 +4,7 @@ main:
     url: "/#welcome"
 
   - title: "Snow"
-    url: "/snow"
+    url: "/#snow"
 
   - title: "Death Valley National Park"
     url: "/#death-valley-national-park"
