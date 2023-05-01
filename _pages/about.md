@@ -321,7 +321,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <br /><br /><p>
 
 
-<p><img src='images/VT/DSC_0663_1.JPG' alt="sym" width="400" class="center">
+<p><img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center">
    <!-- <img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 <p><img src='images/VT/DSC_0737_1.JPG' alt="sym" width="400" class="center"> -->
