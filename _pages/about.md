@@ -36,16 +36,57 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 年少若风流，夫复何求。<br />
 
 
-# 📍Snow
-<p>Photos taken in February, 2023.<br /> <br /> <p>
-<p><img src='images/snow_2023/DSC_0613.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/snow_2023/DSC_0579.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/snow_2023/DSC_0636.JPG' alt="sym" width="400" class="center">
-   <img src='images/snow_2023/DSC_0630.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
+# 📍Washington DC
+<p>Photos taken in DC, May, 2023.<br /> <br /> <p>
+<p><img src='images/DC/DSC_0015.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0980.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0989.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0996.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/DC/DSC_0036.JPG' alt="sym" width="400" class="center">
+   <img src='images/DC/DSC_0039.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+# 📍Natural Museum of Natural History
+<p>Photos taken in DC, May, 2023.<br /> <br /> <p>
+<p><img src='images/DC/DSC_0048.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0058.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0062.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0069.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+
+<p><img src='images/DC/DSC_0070.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0081.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0082.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0085.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0087.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/DC/DSC_0072.JPG' alt="sym" width="400" class="center">
+   <img src='images/DC/DSC_0064.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
 
+
+
+# 📍National Aquarium
+<p>Photos taken in Baltimore, May, 2023.<br /> <br /> <p>
+<p><img src='images/DC/DSC_0863.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0865.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0872.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0903.JPG' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/DC/DSC_0908.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0910.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0936.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0961.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/DC/DSC_0871.JPG' alt="sym" width="400" class="center">
+   <img src='images/DC/DSC_0927.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
 
 
 # 📍Snow

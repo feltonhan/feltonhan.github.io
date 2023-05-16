@@ -3,6 +3,16 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+
+  - title: "Washington DC"
+    url: "/#washington-dc"
+
+  - title: "Natural Museum of Natural History"
+    url: "/#natural-museum-of-natural-history"
+
+  - title: "National Aquarium"
+    url: "/#national-aquarium"
+
   - title: "Snow"
     url: "/#snow"
 
