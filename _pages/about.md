@@ -48,7 +48,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <div class='paper-box-text' markdown="1">
 
 
-# 📍Natural Museum of Natural History
+# 📍National Museum of Natural History
 <p>Photos taken in DC, May, 2023.<br /> <br /> <p>
 <p><img src='images/DC/DSC_0048.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/DC/DSC_0058.jpg' alt="sym" width="800" class="center"><br /><p>
