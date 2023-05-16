@@ -38,31 +38,31 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 # 📍Washington DC
 <p>Photos taken in DC, May, 2023.<br /> <br /> <p>
-<p><img src='images/DC/DSC_0015.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0980.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0989.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0996.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0015.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0980.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0989.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0996.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/DC/DSC_0036.JPG' alt="sym" width="400" class="center">
+<p><img src='images/DC/DSC_0036.jpg' alt="sym" width="400" class="center">
    <img src='images/DC/DSC_0039.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
 # 📍Natural Museum of Natural History
 <p>Photos taken in DC, May, 2023.<br /> <br /> <p>
-<p><img src='images/DC/DSC_0048.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0058.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0062.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0069.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0048.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0058.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0062.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0069.jpg' alt="sym" width="800" class="center"><br /><p>
 
 
-<!-- <p><img src='images/DC/DSC_0070.JPG' alt="sym" width="800" class="center"><br /><p> -->
-<p><img src='images/DC/DSC_0081.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0082.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0085.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0087.JPG' alt="sym" width="800" class="center"><br /><p>
+<!-- <p><img src='images/DC/DSC_0070.jpg' alt="sym" width="800" class="center"><br /><p> -->
+<p><img src='images/DC/DSC_0081.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0082.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0085.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0087.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/DC/DSC_0072.JPG' alt="sym" width="400" class="center">
+<p><img src='images/DC/DSC_0072.jpg' alt="sym" width="400" class="center">
    <img src='images/DC/DSC_0064.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
@@ -72,18 +72,18 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 # 📍National Aquarium
 <p>Photos taken in Baltimore, May, 2023.<br /> <br /> <p>
-<p><img src='images/DC/DSC_0863.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0865.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0872.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0903.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0863.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0865.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0872.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0903.jpg' alt="sym" width="800" class="center"><br /><p>
 
 
-<p><img src='images/DC/DSC_0908.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0910.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0936.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC/DSC_0961.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0908.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0910.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0936.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC/DSC_0961.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/DC/DSC_0871.JPG' alt="sym" width="400" class="center">
+<p><img src='images/DC/DSC_0871.jpg' alt="sym" width="400" class="center">
    <img src='images/DC/DSC_0927.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
