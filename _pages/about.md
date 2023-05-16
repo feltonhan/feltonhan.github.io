@@ -870,6 +870,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Wellocme !🖐️🖐️🖐️ You are the vistor No.<span id="busuanzi_value_site_pv"></span>. I shall keep updating the gallery. Check it back later for more.</span>
+<span id="busuanzi_container_site_pv">Wellocme !🖐️🖐️🖐️ You are the visitor No.<span id="busuanzi_value_site_pv"></span>. I shall keep updating the gallery. Check it back later for more.</span>
 <br />
 <br />
