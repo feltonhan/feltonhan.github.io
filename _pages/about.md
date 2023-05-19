@@ -93,8 +93,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <p>Photos taken in Rutgers Garden, Aprial, 2023.<br /> <br /> <p>
 <p><img src='images/snow_2023/DSC_0729_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/snow_2023/DSC_0766_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/snow_2023/DSC_0781_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/snow_2023/DSC_0804_1.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<p><img src='images/snow_2023/DSC_0781_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/snow_2023/DSC_0804_1.jpg' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -659,12 +659,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 
-
-
-
 # 📍Cheesequake State Park
 <p>Photos taken Cheesequake State Park, New Jersey, October 2021.<br /><p>
-
 
 <p><img src='images/Cheese/DSC_0071_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cheese/DSC_0037_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -676,7 +672,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 # 📍R Univeristy
-<p>Photos taken Some Univeristy, New Jersey, 2019-2022.<br /><p>
+<p>Photos taken in R Univeristy, New Jersey, 2019-2022.<br /><p>
 <p><img src='images/RU/DSC_0102_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0105_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0528_1.JPG' alt="sym" width="800" class="center"><br /><p>
@@ -688,7 +684,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <p><img src='images/RU/DSC_0249_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RU/DSC_0652_1.JPG' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
-
 
 
 
