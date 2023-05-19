@@ -13,6 +13,9 @@ main:
   - title: "National Aquarium"
     url: "/#national-aquarium"
 
+  - title: "RU Garden"
+    url: "/#ru-garden"
+
   - title: "Snow"
     url: "/#snow"
 
