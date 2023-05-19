@@ -327,12 +327,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <p><img src='images/VT/DSC_0722_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/VT/DSC_0947_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
-<br /><br /><p>
+<br /><p>
 <p><img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center">
-   <img src='images/VT/DSC_0739_1.JPG' alt="sym" width="400" class="center"><br /><p>
-<div class='paper-box-text' markdown="1">
-
-<p><img src='images/VT/DSC_0737_1.JPG' alt="sym" width="400" class="center">
    <img src='images/VT/DSC_0751_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
@@ -348,7 +344,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 <p><img src='images/LittleItaly/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<br /><br /><br /><p>
+<br /><p>
 
 <p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center">
    <img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
