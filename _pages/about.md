@@ -68,8 +68,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 
-
-
 # 📍National Aquarium
 <p>Photos taken in Baltimore, May, 2023.<br /> <br /> <p>
 <p><img src='images/DC/DSC_0863.jpg' alt="sym" width="800" class="center"><br /><p>
@@ -91,10 +89,10 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 # 📍RU Garden
 <p>Photos taken in Rutgers Garden, Aprial, 2023.<br /> <br /> <p>
-<p><img src='images/snow_2023/DSC_0729_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/snow_2023/DSC_0766_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/snow_2023/DSC_0781_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/snow_2023/DSC_0804_1.jpg' alt="sym" width="800" class="center"><br /><br /><br /><p>
+<p><img src='images/RGarden/DSC_0729_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden/DSC_0766_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden/DSC_0781_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden/DSC_0804_1.jpg' alt="sym" width="800" class="center"><br /><br /><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -529,7 +527,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 # 📍Yellowstone National Park
-
 
 <p><img src='images/Yellostone/DSC_0232_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Yellostone/DSC_0295_2.JPG' alt="sym" width="800" class="center"><br /><p>
