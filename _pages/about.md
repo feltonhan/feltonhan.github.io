@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨 Welcome
-Folks, welcome to my photo gallery. I am a full-time student and part-time professional fun-seeker. I take photos of simple moment and ordinary people. All rights reserved. Feel free to contact me for anyone you needed.
+Folks, welcome to my photo gallery. I am a full-time student and part-time fun-seeker. I take photos of simple moment and ordinary people. All rights reserved. Feel free to contact me for anyone you needed.
 
 # 逍遥游
 
@@ -685,6 +685,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time profe
 
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">Wellocme !🖐️🖐️🖐️ You are the visitor No.<span id="busuanzi_value_site_pv"></span>. I shall keep updating the gallery. Check it back later for more.</span>
+<span id="busuanzi_container_site_pv">Welocme !🖐️🖐️🖐️ You are the visitor No.<span id="busuanzi_value_site_pv"></span>. I shall keep updating the gallery. Check it back later for more.</span>
 <br />
 <br />
