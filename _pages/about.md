@@ -36,6 +36,49 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 年少若风流，夫复何求。<br />
 
 
+
+
+# 📍Olympic National Park
+<p>Photos taken in Seattle, July, 2023.<br /> <br /> <p>
+<p><img src='images/Olympic/DSC_0614.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Olympic/DSC_0615.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Olympic/DSC_0620.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Olympic/DSC_0610.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Olympic/DSC_0570.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Olympic/DSC_0378.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Olympic/DSC_0575.jpg' alt="sym" width="400" class="center">
+   <img src='images/Olympic/DSC_0542.jpg' alt="sym" width="400" class="center"><br /><p>
+
+<p><img src='images/Olympic/DSC_0373.jpg' alt="sym" width="400" class="center">
+   <img src='images/Olympic/DSC_0585.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
+# 📍Rainer National Park
+<p>Photos taken in Seattle, July, 2023.<br /> <br /> <p>
+<p><img src='images/Rainer/DSC_0154.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0190.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0196.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0237.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0245.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Rainer/DSC_0256.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0258.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0283.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0352.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Rainer/DSC_0306.jpg' alt="sym" width="400" class="center">
+   <img src='images/Rainer/DSC_0329.jpg' alt="sym" width="400" class="center"><br /><br /><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+
+
 # 📍Washington DC
 <p>Photos taken in DC, May, 2023.<br /> <br /> <p>
 <p><img src='images/DC/DSC_0015.jpg' alt="sym" width="800" class="center"><br /><p>
