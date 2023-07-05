@@ -60,7 +60,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 
 
 
-# 📍Rainer National Park
+# 📍Mountain Rainer National Park
 <p>Photos taken in Mountain Rainer National Park, July, 2023.<br /> <br /> <p>
 <p><img src='images/Rainer/DSC_0154.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0190.JPG' alt="sym" width="800" class="center"><br /><p>
