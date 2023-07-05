@@ -39,13 +39,16 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 
 
 # 📍Olympic National Park
-<p>Photos taken in Seattle, July, 2023.<br /> <br /> <p>
+<p>Photos taken in Olympic National Park, July, 2023.<br /> <br /> <p>
+
 <p><img src='images/Olympic/DSC_0614.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Olympic/DSC_0615.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Olympic/DSC_0620.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Olympic/DSC_0610.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Olympic/DSC_0570.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Olympic/DSC_0378.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Olympic/DSC_0743.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Olympic/DSC_0773.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
 <p><img src='images/Olympic/DSC_0575.JPG' alt="sym" width="400" class="center">
@@ -58,19 +61,19 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 
 
 # 📍Rainer National Park
-<p>Photos taken in Seattle, July, 2023.<br /> <br /> <p>
+<p>Photos taken in Mountain Rainer National Park, July, 2023.<br /> <br /> <p>
 <p><img src='images/Rainer/DSC_0154.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0190.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0196.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0237.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0245.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Rainer/DSC_0316.JPG' alt="sym" width="800" class="center"><br /><p>
 
 
 <p><img src='images/Rainer/DSC_0256.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0258.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0283.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Rainer/DSC_0352.JPG' alt="sym" width="800" class="center"><br /><p>
-
 
 
 <p><img src='images/Rainer/DSC_0306.JPG' alt="sym" width="400" class="center">
