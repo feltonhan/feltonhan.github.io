@@ -398,7 +398,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/LittleItaly/DSC_0672_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0680_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/LittleItaly/DSC_0702_2.JPG' alt="sym" width="800" class="center"><br /><p>
-<br /><p>
 
 <p><img src='images/LittleItaly/DSC_0688_1.JPG' alt="sym" width="400" class="center">
    <img src='images/LittleItaly/DSC_0657_1.JPG' alt="sym" width="400" class="center"><br /><br /><br /><p>
