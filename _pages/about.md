@@ -40,13 +40,13 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 # 📍Morristwon Historical Park
 <p>Photos taken in Morristwon Historical Park, September, 2023.<br /> <br /> <p>
 
-<p><img src='images/Morristwon/DSC_0003_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Morristwon/DSC_0030_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Morristwon/DSC_0031_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Morristwon/DSC_0063_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Morristwon/DSC_0092_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Morristwon/DSC_0112_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Morristwon/DSC_0139_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0003_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0030_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0031_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0063_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0092_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0112_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0139_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/Morristwon/DSC_0067_1.jpg' alt="sym" width="400" class="center">
    <img src='images/Morristwon/DSC_0089_1.jpg' alt="sym" width="400" class="center"><br /><p>
