@@ -37,6 +37,21 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 
 
 
+# 📍Olympic National Park
+<p>Photos taken in Olympic National Park, July, 2023.<br /> <br /> <p>
+
+<p><img src='images/Morristwon/DSC_0003_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristwon/DSC_0030_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristwon/DSC_0031_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristwon/DSC_0063_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristwon/DSC_0092_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristwon/DSC_0112_1.JPG' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Morristwon/DSC_0139_1.JPG' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/Morristwon/DSC_0067_1.JPG' alt="sym" width="400" class="center">
+   <img src='images/Morristwon/DSC_0089.JPG' alt="sym" width="400" class="center"><br /><p>
+
+
 
 # 📍Olympic National Park
 <p>Photos taken in Olympic National Park, July, 2023.<br /> <br /> <p>

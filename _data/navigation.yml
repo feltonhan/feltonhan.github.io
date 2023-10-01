@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Morristwon Historical Park"
+    url: "/#morristwon-historical-park"
+
   - title: "Olympic National Park"
     url: "/#olympic-national-park"
 
