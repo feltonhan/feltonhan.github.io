@@ -48,8 +48,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/Morristown/DSC_0112_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Morristown/DSC_0139_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/Morristwon/DSC_0067_1.jpg' alt="sym" width="400" class="center">
-   <img src='images/Morristwon/DSC_0089_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Morristown/DSC_0067_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Morristown/DSC_0089_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
