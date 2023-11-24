@@ -36,6 +36,26 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 年少若风流，夫复何求。<br />
 
 
+# 📍Thanksgiving 2023
+<p>Photos taken on Thanksgiving, New York City, 2023.<br /> <br /> <p>
+
+<p><img src='images/Thanks/DSC_0224_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Thanks/DSC_0399_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Thanks/DSC_0340_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Thanks/DSC_0216_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Thanks/DSC_0219_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Thanks/DSC_0229_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Thanks/DSC_0254_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Thanks/DSC_0281_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Thanks/DSC_0241_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Thanks/DSC_0303_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Thanks/DSC_0304_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Thanks/DSC_0337_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Thanks/DSC_0364_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
 
 # 📍Morristwon Historical Park
 <p>Photos taken in Morristwon Historical Park, September, 2023.<br /> <br /> <p>

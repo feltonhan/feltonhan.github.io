@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Thanksgiving 2023"
+    url: "/#thanksgiving-2023"
+
   - title: "Morristwon Historical Park"
     url: "/#morristwon-historical-park"
 
