@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "R Garden 2024"
+    url: "#/R-garden-2024"
+
   - title: "Thanksgiving 2023"
     url: "/#thanksgiving-2023"
 
