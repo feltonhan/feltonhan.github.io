@@ -59,7 +59,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/RGarden24/DSC_0612_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RGarden24/DSC_0621_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RGarden24/DSC_0622_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0627_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0627_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RGarden24/DSC_0452_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/RGarden24/DSC_0537_1.jpg' alt="sym" width="400" class="center">
