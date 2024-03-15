@@ -45,25 +45,25 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/RGarden24/DSC_0511_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RGarden24/DSC_0523_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RGarden24/DSC_0526_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0539_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0541_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0550_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0552_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0556_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0539_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0541_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0550_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0552_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0556_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/RGarden24/DSC_0561_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0570_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0574_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0582_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0592_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0612_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0621_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0622_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/RGarden24/DSC_0627_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0561_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0570_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0574_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0582_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0592_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0612_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0621_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0622_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0627_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 
-<p><img src='images/Thanks/DSC_0537_1.jpg' alt="sym" width="400" class="center">
-   <img src='images/Thanks/DSC_0545_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/RGarden24/DSC_0537_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/RGarden24/DSC_0545_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
