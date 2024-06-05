@@ -36,6 +36,45 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 年少若风流，夫复何求。<br />
 
 
+# 📍Kings Canyon Nation Park
+<p>Photos taken in Kings Canyon Nation Park, June 2024.<br /> <br /> <p>
+<p><img src='images/CA/DSC_0339_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0376_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0383_1.jpg' alt="sym" 
+
+<p><img src='images/CA/0372_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/CA/0372_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+# 📍Sequoia Nation Park
+<p>Photns taken in Sequoia Nation Park, June 2024.<br /> <br /> <p>
+
+<p><img src='images/CA/DSC_0199_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0265_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0288_1.jpg' alt="sym" 
+
+<p><img src='images/CA/0213_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/CA/0213_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+# 📍Goden Gate Bridge
+<p>Pnotos taken at goden gate bridge, June 2024.<br /> <br /> <p>
+
+<p><img src='images/CA/DSC_0030_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0036_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0134_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0134_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0135_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0136_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0165_2.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/CA/0134_2.jpg' alt="sym" width="400" class="center">
+   <img src='images/CA/0134_2.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
 
 
 

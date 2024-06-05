@@ -3,6 +3,19 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Kings Canyon National Park"
+    url: "/#r-kings-canyon-national-park"
+
+  - title: "Sequoia National Park"
+    url: "/#r-sequoia-national-park"
+
+  - title: "Golden Gate Bridge"
+    url: "/#r-golden-gate-bridge"
+  
+  - title: "Golden Gate Bridge"
+    url: "/#r-golden-gate-bridge"
+
+
   - title: "R Garden 2024"
     url: "/#r-garden-2024"
 
