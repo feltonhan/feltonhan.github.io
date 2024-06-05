@@ -42,8 +42,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/CA/DSC_0376_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/CA/DSC_0383_1.jpg' alt="sym" 
 
-<p><img src='images/CA/0372_1.jpg' alt="sym" width="400" class="center">
-   <img src='images/CA/0372_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/CA/DSC_0372_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/CA/DSC_0372_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
@@ -54,8 +54,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/CA/DSC_0265_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/CA/DSC_0288_1.jpg' alt="sym" 
 
-<p><img src='images/CA/0213_1.jpg' alt="sym" width="400" class="center">
-   <img src='images/CA/0213_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/CA/DSC_0213_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/CA/DSC_0213_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 # 📍Goden Gate Bridge
@@ -72,8 +72,8 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 
 
 
-<p><img src='images/CA/0134_2.jpg' alt="sym" width="400" class="center">
-   <img src='images/CA/0134_2.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/CA/DSC_0134_2.jpg' alt="sym" width="400" class="center">
+   <img src='images/CA/DSC_0134_2.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
