@@ -41,6 +41,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/CA/DSC_0339_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/CA/DSC_0376_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/CA/DSC_0383_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CA/DSC_0332_1.JPG' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/CA/DSC_0372_1.jpg' alt="sym" width="400" class="center">
    <img src='images/CA/DSC_0372_1.jpg' alt="sym" width="400" class="center"><br /><p>
