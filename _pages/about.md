@@ -53,7 +53,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <div class='paper-box-text' markdown="1">
 
 
-# 📍Kings Canyon Nation Park
+# 📍Kings Canyon National Park
 <p>Photos taken in Kings Canyon Nation Park, June 2024.<br /> <br /> <p>
 <p><img src='images/CA/DSC_0339_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/CA/DSC_0376_1.jpg' alt="sym" width="800" class="center"><br /><p>
@@ -65,7 +65,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <div class='paper-box-text' markdown="1">
 
 
-# 📍Sequoia Nation Park
+# 📍Sequoia National Park
 <p>Photns taken in Sequoia Nation Park, June 2024.<br /> <br /> <p>
 
 <p><img src='images/CA/DSC_0199_1.jpg' alt="sym" width="800" class="center"><br /><p>
