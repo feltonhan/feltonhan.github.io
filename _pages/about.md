@@ -43,12 +43,14 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/RPreserve/DSC_0415_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0422_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0435_1.jpg' alt="sym" width="800" class="center"><br /><p>
-
+<p><img src='images/RPreserve/DSC_0447_1.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0448_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
 <p><img src='images/RPreserve/DSC_0456_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0457_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0462_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0463_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0463_3.JPG' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0465_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
