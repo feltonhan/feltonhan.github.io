@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "R Preserve"
+    url: "/#r-preserve"
+
   - title: "Kings Canyon National Park"
     url: "/#kings-canyon-national-park"
 

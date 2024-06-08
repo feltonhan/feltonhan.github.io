@@ -36,6 +36,23 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 年少若风流，夫复何求。<br />
 
 
+
+# 📍R Preserve
+<p>Photos taken in R Preserve, June 2024.<br /> <br /> <p>
+<p><img src='images/RPreserve/DSC_0401_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0415_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0422_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0435_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/RPreserve/DSC_0448_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0456_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0457_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0462_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0463_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/RPreserve/DSC_0465_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
 # 📍Kings Canyon Nation Park
 <p>Photos taken in Kings Canyon Nation Park, June 2024.<br /> <br /> <p>
 <p><img src='images/CA/DSC_0339_1.jpg' alt="sym" width="800" class="center"><br /><p>
