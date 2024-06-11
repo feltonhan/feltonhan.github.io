@@ -50,8 +50,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/RPreserve/DSC_0457_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0462_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0463_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RPreserve/DSC_0463_3.JPG' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/RPreserve/DSC_0465_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/RPreserve/DSC_0551_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0569_1.jpg' alt="sym" width="800" class="center"><br /><p>
