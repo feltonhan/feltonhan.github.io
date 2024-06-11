@@ -83,7 +83,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
    <img src='images/CA/IMG_6993.JPEG' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
-# 📍Goden Gate Bridge
+# 📍Golden Gate Bridge
 <p>Pnotos taken at goden gate bridge, June 2024.<br /> <br /> <p>
 
 <p><img src='images/CA/DSC_0030_1.jpg' alt="sym" width="800" class="center"><br /><p>
