@@ -37,7 +37,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 
 
 
-# 📍R Preserve
+# 📍Rutgers Preserve
 <p>Photos taken in R Preserve, June 2024.<br /> <br /> <p>
 <p><img src='images/RPreserve/DSC_0401_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/RPreserve/DSC_0415_1.jpg' alt="sym" width="800" class="center"><br /><p>
