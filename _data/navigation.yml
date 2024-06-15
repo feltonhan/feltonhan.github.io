@@ -3,6 +3,12 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Sunset"
+    url: "/#sunset"
+
+  - title: "Firefly"
+    url: "/#firefly"
+
   - title: "Rutgers Preserve"
     url: "/#rutgers-preserve"
 

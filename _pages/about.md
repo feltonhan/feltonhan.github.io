@@ -37,6 +37,15 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 
 
 
+# 📍Firefly
+<p>Photos of firely, June 2024.<br /> <br /> <p>
+<p><img src='images/Firefly/DSC_0086_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Firefly/DSC_0490_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Firefly/DSC_0987_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Firefly/DSC_0097_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
 # 📍Rutgers Preserve
 <p>Photos taken in R Preserve, June 2024.<br /> <br /> <p>
 <p><img src='images/RPreserve/DSC_0401_1.jpg' alt="sym" width="800" class="center"><br /><p>
