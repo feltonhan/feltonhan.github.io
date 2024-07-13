@@ -35,6 +35,23 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
 年少若风流，夫复何求。<br />
 
+# 📍NJ Cat Expo
+<p>Photos of Cat, at NJ Cat Expo, July 2024.<br /> <br /> <p>
+<p><img src='images/Cat/DSC_0317_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0315_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0250_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0251_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0261_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0267_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/Cat/DSC_0275_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0284_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0297_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0302_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0305_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cat/DSC_0308_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<div class='paper-box-text' markdown="1">
 
 
 # 📍Sunset
