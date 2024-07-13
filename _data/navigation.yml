@@ -4,7 +4,7 @@ main:
     url: "/#welcome"
 
   - title: "NJ Cat Expo"
-    url: "/nj-cat-expo"
+    url: "/#nj-cat-expo"
 
   - title: "Sunset"
     url: "/#sunset"
