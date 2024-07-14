@@ -55,7 +55,7 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
    <img src='images/Tennis/DSC_0384_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <p><img src='images/Tennis/DSC_0385_1.jpg' alt="sym" width="400" class="center">
    <img src='images/Tennis/DSC_0503_1.jpg' alt="sym" width="400" class="center"><br /><p>
-<p><img src='images/Tennis/DSC_0409_1.jpg' alt="sym" width="400" class="center">
+<p><img src='images/Tennis/DSC_0402_1.JPG' alt="sym" width="400" class="center">
    <img src='images/Tennis/DSC_0409_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
