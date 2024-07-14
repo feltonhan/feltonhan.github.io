@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Tennis"
+    url: "/#tennis"
+
   - title: "NJ Cat Expo"
     url: "/#nj-cat-expo"
 
