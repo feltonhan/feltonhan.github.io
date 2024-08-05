@@ -36,6 +36,26 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 年少若风流，夫复何求。<br />
 
 
+# 📍NJ State Fair
+<p>Photos taken at NJ State Fair, August 2024.<br /> <br /> <p>
+<p><img src='images/StateFair/DSC_0452_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0453_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0521_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0458_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0462.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0473_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/StateFair/DSC_0475_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0487_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0493_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0486_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0508_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/StateFair/DSC_0460_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/StateFair/DSC_0460_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/StateFair/DSC_0460_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 
 # 📍Tennis
 <p>Photos taken at Tennis court, July 2024.<br /> <br /> <p>
