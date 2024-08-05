@@ -50,7 +50,6 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 <p><img src='images/StateFair/DSC_0493_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/StateFair/DSC_0486_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/StateFair/DSC_0508_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/StateFair/DSC_0460_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 
 <p><img src='images/StateFair/DSC_0460_1.jpg' alt="sym" width="400" class="center">
