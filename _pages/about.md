@@ -35,10 +35,23 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
 年少若风流，夫复何求。<br />
 
+# 📍Winter at NYIT
+<p>Photos taken at NYIT, Winter 2024. <br /> <br /> <p>
+<p><img src='images/NYIT2/DSC_0613_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT2/DSC_0618_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT2/DSC_0620_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT2/DSC_0626_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT2/DSC_0644_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/NYIT2/DSC_0621_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/NYIT2/DSC_0631_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
 
 
 # 📍Fall at NYIT
-<p>Photos taken at NJ State Fair, August 2024.<br /> <br /> <p>
+<p>Photos taken at NYIT, October 2024.<br /> <br /> <p>
 <p><img src='images/NYIT/DSC_0580.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NYIT/DSC_0592.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/NYIT/DSC_0594.jpg' alt="sym" width="800" class="center"><br /><p>
