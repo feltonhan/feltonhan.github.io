@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Fall at NYIT"
+    url: "/#fall-at-nyit"
+
   - title: "NJ State Fair"
     url: "/#nj-state-fair"
 

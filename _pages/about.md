@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 👨 Welcome
-Folks, welcome to my photo gallery. I am a full-time student and part-time fun-seeker. I take photos of simple moment and ordinary people. All rights reserved. Feel free to contact me for anyone you needed.
+Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-seeker. I take photos of simple moment and ordinary people. All rights reserved.
 
 # 逍遥游
 
@@ -34,6 +34,16 @@ Folks, welcome to my photo gallery. I am a full-time student and part-time fun-s
 莫言五岳三山险，太白沽酒与寻仙。笑看沧海桑田，天上人间。<br />
 齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
 年少若风流，夫复何求。<br />
+
+
+
+# 📍Fall at NYIT
+<p>Photos taken at NJ State Fair, August 2024.<br /> <br /> <p>
+<p><img src='images/NYIT/DSC_0580.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT/DSC_0592.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT/DSC_0594.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT/DSC_0611.jpg' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 
 
 # 📍NJ State Fair
