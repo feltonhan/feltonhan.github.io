@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Spring at NYIT"
+    url: "/#spring-at-nyit"
+
   - title: "Winter at NYIT"
     url: "/#winter-at-nyit"
 
