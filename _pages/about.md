@@ -93,10 +93,10 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 <p><img src='images/Cincy/DSC_0933_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cincy/DSC_0969_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cincy/DSC_0970_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Cincy/DSC_0980_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Cincy/DSC_0978_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/Cincy/DSC_0932.jpg' alt="sym" width="400" class="center">
-   <img src='images/Cincy/DSC_0957.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Cincy/DSC_0932_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Cincy/DSC_0957_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 # 📍Spring at NYIT
