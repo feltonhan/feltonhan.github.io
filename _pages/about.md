@@ -103,8 +103,8 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 # 📍DC
 <p>Photos taken in DC, March 2025. <br /> <br /> <p>
-<p><img src='images/DC2/DSC_729_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/DC2/DSC_736_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC2/DSC_0729_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC2/DSC_0736_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/DC2/DSC_0731_1.jpg' alt="sym" width="400" class="center">
    <img src='images/DC2/DSC_0772_1.jpg' alt="sym" width="400" class="center"><br /><p>
