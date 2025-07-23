@@ -33,7 +33,7 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 休道洛悠汉广，神女应是无恙。兰舟碧波荡，何来怅惘。<br />
 莫言五岳三山险，太白沽酒与寻仙。笑看沧海桑田，天上人间。<br />
 齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
-年少若风流，夫复何求。<br />
+年少若风流，夫复何求。<br /> <br /> 
 
 
 <p><img src='images/State/A.jpg' alt="sym" width="200" class="center">
