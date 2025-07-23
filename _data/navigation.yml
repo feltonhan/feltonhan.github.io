@@ -7,6 +7,9 @@ main:
   - title: "Denver"
     url: "/#denver"
 
+  - title: "Cincinnati"
+    url: "/#cincinnati"
+
 
   - title: "Spring at NYIT"
     url: "/#spring-at-nyit"
