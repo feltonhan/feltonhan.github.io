@@ -10,6 +10,8 @@ main:
   - title: "Cincinnati"
     url: "/#cincinnati"
 
+  - title: "DC"
+    url: "/#dc"
 
   - title: "Spring at NYIT"
     url: "/#spring-at-nyit"

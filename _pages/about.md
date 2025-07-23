@@ -59,7 +59,7 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 <p><img src='images/State/Q.jpg' alt="sym" width="200" class="center"><br /><p>
 
 # 📍Denver
-<p>Photos taken in Denver, Gardens of Gods, Pikes Peak, and Rocky Mountan National Park, Summer 2025. <br /> <br /> <p>
+<p>Photos taken in Denver, Gardens of Gods, Pikes Peak, and Rocky Mountan National Park, July 2025. <br /> <br /> <p>
 <p><img src='images/Denver/DSC_0017_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Denver/DSC_0040_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Denver/DSC_0053_1.jpg' alt="sym" width="800" class="center"><br /><p>
@@ -90,7 +90,7 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 
 # 📍Cincinnati
-<p>Photos taken in Cincinnati, Summer 2025. <br /> <br /> <p>
+<p>Photos taken in Cincinnati, June 2025. <br /> <br /> <p>
 <p><img src='images/Cincy/DSC_0933_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cincy/DSC_0969_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Cincy/DSC_0970_1.jpg' alt="sym" width="800" class="center"><br /><p>
@@ -98,6 +98,16 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 <p><img src='images/Cincy/DSC_0932_1.jpg' alt="sym" width="400" class="center">
    <img src='images/Cincy/DSC_0957_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+# 📍DC
+<p>Photos taken in DC, March 2025. <br /> <br /> <p>
+<p><img src='images/DC2/DSC_729_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/DC2/DSC_736_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/DC2/DSC_0731_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/DC2/DSC_0772_1.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 # 📍Spring at NYIT
