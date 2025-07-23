@@ -37,9 +37,9 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 
 <p><img src='images/State/A.jpg' alt="sym" width="200" class="center">
-   <img src='images/State/A.jpg' alt="sym" width="200" class="center">
-   <img src='images/State/A.jpg' alt="sym" width="200" class="center">
-   <img src='images/State/A.jpg' alt="sym" width="200" class="center"><br /><p>
+   <img src='images/State/B.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/C.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/D.jpg' alt="sym" width="200" class="center"><br /><p>
 
 <p><img src='images/State/E.jpg' alt="sym" width="200" class="center">
    <img src='images/State/F.jpg' alt="sym" width="200" class="center">
