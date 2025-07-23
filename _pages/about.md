@@ -38,25 +38,31 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 # 📍Denveer
 <p>Photos taken in Denver, Gardens of Gods, Pikes Peak, and Rocky Mountan National Park, Summer 2025. <br /> <br /> <p>
 <p><img src='images/Denver/DSC_0017_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0820_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0834_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0854_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0855_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0040_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0053_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0056_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0058_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/NYIT_Spring/DSC_0862_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0888_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0893_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0908_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0917_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0923_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/NYIT_Spring/DSC_0924_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0062_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0078_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0084_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0126_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0200_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
+<p><img src='images/Denver/DSC_0306_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0348_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0351_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0404_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0444_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/NYIT_Spring/DSC_0831_1.jpg' alt="sym" width="400" class="center">
-   <img src='images/NYIT_Spring/DSC_0904_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0517_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0551_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0351_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0993_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_1022_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/NYIT_Spring/DSC_0881_1.jpg' alt="sym" width="400" class="center">
-   <img src='images/NYIT_Spring/DSC_0891_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0222.jpg' alt="sym" width="400" class="center">
+   <img src='images/Denver/DSC_0223.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 # 📍Spring at NYIT
