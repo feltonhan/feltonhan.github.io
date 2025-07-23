@@ -56,7 +56,8 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
    <img src='images/State/O.jpg' alt="sym" width="200" class="center">
    <img src='images/State/P.jpg' alt="sym" width="200" class="center"><br /><p>
 
-<p><img src='images/State/Q.jpg' alt="sym" width="200" class="center"><br /><br /><p>
+<p><img src='images/State/Q.jpg' alt="sym" width="200" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 
 # 📍Denver
 <p>Photos taken in Denver, Gardens of Gods, Pikes Peak, and Rocky Mountan National Park, July 2025. <br /> <br /> <p>
