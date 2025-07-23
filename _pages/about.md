@@ -35,6 +35,28 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
 年少若风流，夫复何求。<br />
 
+
+<p><img src='images/State/A.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/A.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/A.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/A.jpg' alt="sym" width="200" class="center"><br /><p>
+
+<p><img src='images/State/E.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/F.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/G.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/H.jpg' alt="sym" width="200" class="center"><br /><p>
+
+<p><img src='images/State/I.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/J.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/K.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/L.jpg' alt="sym" width="200" class="center"><br /><p>
+
+<p><img src='images/State/M.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/N.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/O.jpg' alt="sym" width="200" class="center">
+   <img src='images/State/P.jpg' alt="sym" width="200" class="center"><br /><p>
+
+
 # 📍Denver
 <p>Photos taken in Denver, Gardens of Gods, Pikes Peak, and Rocky Mountan National Park, Summer 2025. <br /> <br /> <p>
 <p><img src='images/Denver/DSC_0017_1.jpg' alt="sym" width="800" class="center"><br /><p>
