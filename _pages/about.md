@@ -35,7 +35,29 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 齐鲁风月无边，坐而论道杏坛。五柳弄骄阳，把酒桃源。<br />
 年少若风流，夫复何求。<br />
 
+# 📍Denveer
+<p>Photos taken in Denver, Gardens of Gods, Pikes Peak, and Rocky Mountan National Park, Summer 2025. <br /> <br /> <p>
+<p><img src='images/Denver/DSC_0017_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0820_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0834_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0854_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0855_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
+<p><img src='images/NYIT_Spring/DSC_0862_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0888_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0893_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0908_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0917_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0923_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/NYIT_Spring/DSC_0924_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/NYIT_Spring/DSC_0831_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/NYIT_Spring/DSC_0904_1.jpg' alt="sym" width="400" class="center"><br /><p>
+
+<p><img src='images/NYIT_Spring/DSC_0881_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/NYIT_Spring/DSC_0891_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
 
 # 📍Spring at NYIT
 <p>Photos taken at NYIT, Spring 2025. <br /> <br /> <p>
