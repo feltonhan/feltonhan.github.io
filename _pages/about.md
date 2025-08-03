@@ -81,7 +81,6 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 <p><img src='images/Denver/DSC_0517_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Denver/DSC_0551_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Denver/DSC_0351_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Denver/DSC_0993_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Denver/DSC_1022_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
