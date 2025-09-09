@@ -59,6 +59,46 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 <p><img src='images/State/Q.jpg' alt="sym" width="200" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
+
+
+# 📍Fall 2025
+<p>Photos taken in NYIT, September 2025. <br /> <br /> <p>
+<p><img src='images/Fall2025/DSC_0574_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0577_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0590_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0597_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0601_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/Fall2025/DSC_0607_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0613_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0615_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0642_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0643_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Fall2025/DSC_0647_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0651_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0665_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0679_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0680_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Fall2025/DSC_0692_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0710_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0721_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0722_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/Fall2025/DSC_0733_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0748_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Fall2025/DSC_0754_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+
+<p><img src='images/Fall2025/DSC_0566.jpg' alt="sym" width="400" class="center">
+   <img src='images/Fall2025/DSC_0711.jpg' alt="sym" width="400" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
 # 📍Denver
 <p>Photos taken in Denver, Gardens of Gods, Pikes Peak, and Rocky Mountan National Park, July 2025. <br /> <br /> <p>
 <p><img src='images/Denver/DSC_0015_1.jpg' alt="sym" width="800" class="center"><br /><p>
