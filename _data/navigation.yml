@@ -3,6 +3,8 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Fall 2025"
+    url: "/#fall2025"
 
   - title: "Denver"
     url: "/#denver"
