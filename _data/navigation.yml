@@ -4,7 +4,7 @@ main:
     url: "/#welcome"
 
   - title: "Fall 2025"
-    url: "/#fall2025"
+    url: "/#fall-2025"
 
   - title: "Denver"
     url: "/#denver"
