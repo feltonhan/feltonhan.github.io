@@ -67,7 +67,6 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 <p><img src='images/Fall2025/DSC_0577_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Fall2025/DSC_0590_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Fall2025/DSC_0597_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Fall2025/DSC_0601_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/Fall2025/DSC_0607_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Fall2025/DSC_0613_1.jpg' alt="sym" width="800" class="center"><br /><p>
