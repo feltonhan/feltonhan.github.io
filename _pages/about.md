@@ -122,6 +122,15 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 <p><img src='images/Denver/DSC_0993_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Denver/DSC_1022_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
+
+<p><img src='images/Denver/DSC_0321_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0514.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0443_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Denver/DSC_0331_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/Denver/DSC_0459_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Denver/DSC_0452.jpg' alt="sym" width="400" class="center"><br /><p>
+
 <p><img src='images/Denver/DSC_0222.jpg' alt="sym" width="400" class="center">
    <img src='images/Denver/DSC_0223.jpg' alt="sym" width="400" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
