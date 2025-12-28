@@ -61,6 +61,32 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 
 
+# 📍Snow 2025
+<p>Photos taken in NYIT, December 2025. <br /> <br /> <p>
+<p><img src='images/Snow2025/DSC_0769_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0776_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0780_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0787_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Snow2025/DSC_0806_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0807_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0822_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0824_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Snow2025/DSC_0828_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0862_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0866_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0872_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
+<p><img src='images/Snow2025/DSC_0885_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0887_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0893_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2025/DSC_0904_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+
 # 📍Fall 2025
 <p>Photos taken in NYIT, September 2025. <br /> <br /> <p>
 <p><img src='images/Fall2025/DSC_0574_1.jpg' alt="sym" width="800" class="center"><br /><p>
