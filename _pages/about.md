@@ -64,17 +64,34 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 # 📍Johns Beach
 <p>Photos taken at Johns Beach State Park, Jan. 2026. <br /> <br /> <p>
 
-
 <p><img src='images/JBeach/Image_121_5.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/JBeach/Image_124_5.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/JBeach/Image_125_5.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/JBeach/Image_127_5.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/JBeach/Image_128_5.jpg' alt="sym" width="800" class="center"><br /><p>
+
 
 <p><img src='images/JBeach/DSC_0975_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/JBeach/DSC_0998_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/JBeach/DSC_0999_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
+
+
+# 📍Snow 2026
+<p>Photos taken in NYIT, Jan 2026. <br /> <br /> <p>
+
+<p><img src='images/Snow2026/DSC_0906_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2026/DSC_0916_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2026/DSC_0924_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2026/DSC_0938_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/Snow2026/DSC_0939_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2026/DSC_0941_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2026/DSC_0942_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Snow2026/DSC_0947_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/Snow2026/DSC_0948_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
 
 
 # 📍Snow 2025
