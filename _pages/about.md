@@ -61,6 +61,22 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 
 
+# 📍Johns Beach
+<p>Photos taken at Johns Beach State Park, Jan. 2026. <br /> <br /> <p>
+
+
+<p><img src='images/JBeach/Image_121_5.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/JBeach/Image_124_5.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/JBeach/Image_125_5.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/JBeach/Image_127_5.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/JBeach/Image_128_5.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<p><img src='images/JBeach/DSC_0975_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/JBeach/DSC_0998_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/JBeach/DSC_0999_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
 # 📍Snow 2025
 <p>Photos taken in NYIT, December 2025. <br /> <br /> <p>
 <p><img src='images/Snow2025/DSC_0769_1.jpg' alt="sym" width="800" class="center"><br /><p>

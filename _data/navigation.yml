@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Johns Beach"
+    url: "/#johns-beach"
+
   - title: "Snow 2025"
     url: "/#snow-2025"
 
