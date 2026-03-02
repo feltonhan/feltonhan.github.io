@@ -3,8 +3,14 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
-  - title: "Johns Beach"
-    url: "/#johns-beach"
+  - title: "Caumesett Park"
+    url: "/#caumesett-park"
+
+  - title: "Sagamore Hill"
+    url: "/#sagamore-hill"
+
+  - title: "Jones Beach"
+    url: "/#jones-beach"
 
   - title: "Snow 2026"
     url: "/#snow-2026"

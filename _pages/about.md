@@ -61,8 +61,31 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 
 
-# 📍Johns Beach
-<p>Photos taken at Johns Beach State Park, Jan. 2026. <br /> <br /> <p>
+# 📍Caumesett Park
+<p>Photos taken at Caumestt State Historical Park, NY, Mar. 2026. <br /> <br /> <p>
+
+<p><img src='images/Caumestt/Image_0021_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/Image_0026_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/Image_0035_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/Image_0047_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/Image_0049_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/Image_1043_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<div class='paper-box-text' markdown="1">
+
+
+
+# 📍Sagamore Hill
+<p>Photos taken at Sagamore Hill National Historical Park, NY, Feb. 2026. <br /> <br /> <p>
+
+<p><img src='images/Sagmore/Image_1026_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Sagmore/Image_1038_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Sagmore/Image_1038_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<div class='paper-box-text' markdown="1">
+
+
+# 📍Jones Beach
+<p>Photos taken at Jone Beach State Park, Jan. 2026. <br /> <br /> <p>
 
 <p><img src='images/JBeach/Image_121_5.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/JBeach/Image_124_5.jpg' alt="sym" width="800" class="center"><br /><p>
