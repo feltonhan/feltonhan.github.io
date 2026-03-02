@@ -64,12 +64,12 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 # 📍Caumesett Park
 <p>Photos taken at Caumestt State Historical Park, NY, Mar. 2026. <br /> <br /> <p>
 
-<p><img src='images/Caumestt/DCS_0021_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumestt/DCS_0026_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumestt/DCS_0035_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumestt/DCS_0047_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumestt/DCS_0049_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumestt/DCS_1043_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/DSC_0021_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/DSC_0026_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/DSC_0035_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/DSC_0047_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/DSC_0049_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumestt/DSC_1043_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 <div class='paper-box-text' markdown="1">
 
@@ -78,9 +78,9 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 # 📍Sagamore Hill
 <p>Photos taken at Sagamore Hill National Historical Park, NY, Feb. 2026. <br /> <br /> <p>
 
-<p><img src='images/Sagmore/DCS_1026_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Sagmore/DCS_1038_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Sagmore/DCS_1038_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Sagmore/DSC_1026_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Sagmore/DSC_1038_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Sagmore/DSC_1038_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <div class='paper-box-text' markdown="1">
 
 
