@@ -64,12 +64,12 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 # 📍Caumesett Park
 <p>Photos taken at Caumestt State Historical Park, NY, Mar. 2026. <br /> <br /> <p>
 
-<p><img src='images/Caumesett/DSC_0021_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett/DSC_0026_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett/DSC_0035_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett/DSC_0047_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett/DSC_0049_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett/DSC_1043_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett/DSC_0021_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett/DSC_0026_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett/DSC_0035_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett/DSC_0047_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett/DSC_0049_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett/DSC_1043_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 <div class='paper-box-text' markdown="1">
 
