@@ -60,6 +60,18 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 <div class='paper-box-text' markdown="1">
 
 
+# 📍Cold Spring Harbor
+<p>Photos taken at Cold Spring Harbor, NY, Mar. 2026. <br /> <br /> <p>
+
+<p><img src='images/CSHarbor/DSC_0065_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CSHarbor/DSC_0075_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CSHarbor/DSC_0088_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CSHarbor/DSC_0097_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CSHarbor/DSC_0101_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/CSHarbor/DSC_0105_1.jpg' alt="sym" width="800" class="center"><br /><p>
+
+<div class='paper-box-text' markdown="1">
+
 
 # 📍Caumesett Park
 <p>Photos taken at Caumestt State Historical Park, NY, Mar. 2026. <br /> <br /> <p>
