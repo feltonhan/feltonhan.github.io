@@ -97,7 +97,7 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 
 
 # 📍Jones Beach
-<p>Photos taken at Jone Beach State Park, Jan. 2026. <br /> <br /> <p>
+<p>Photos taken at Jone's Beach State Park, Jan. 2026. <br /> <br /> <p>
 
 <p><img src='images/JBeach/Image_121_5.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/JBeach/Image_124_5.jpg' alt="sym" width="800" class="center"><br /><p>
