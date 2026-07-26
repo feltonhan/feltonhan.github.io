@@ -3,6 +3,9 @@ main:
   - title: "Welcome"
     url: "/#welcome"
 
+  - title: "Caumesett Park Summer"
+    url: "/#caumesett-park-summer"
+
   - title: "Cold Spring Harbor"
     url: "/#cold-spring-harbor"
 
