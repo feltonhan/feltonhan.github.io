@@ -63,19 +63,19 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 # 📍Caumesett Park Summer
 <p>Photos taken at Caumestt State Historical Park, NY, May. 2026. <br /> <br /> <p>
 
-<p><img src='images/Caumesett2/DSC_0167_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett2/DSC_0109_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett2/DSC_0110_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett2/DSC_0111_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett2/DSC_130_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett2/DSC_0149_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0167_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0109_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0110_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0111_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_130_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0149_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/Caumesett2/DSC_0170_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett2/DSC_0173_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumesett2/DSC_0177_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0170_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0173_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0177_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
-<p><img src='images/Caumesett2/DSC_0138_1.jpg' alt="sym" width="400" class="center">
-   <img src='images/Caumesett2/DSC_0151_1.jpg' alt="sym" width="400" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0138_1.jpg' alt="sym" width="400" class="center">
+   <img src='images/Caumsett2/DSC_0151_1.jpg' alt="sym" width="400" class="center"><br /><p>
 
 <div class='paper-box-text' markdown="1">
 
