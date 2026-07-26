@@ -67,7 +67,7 @@ Folks, welcome to my photo gallery. I am a full-time scholar and part-time fun-s
 <p><img src='images/Caumsett2/DSC_0109_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Caumsett2/DSC_0110_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Caumsett2/DSC_0111_1.jpg' alt="sym" width="800" class="center"><br /><p>
-<p><img src='images/Caumsett2/DSC_130_1.jpg' alt="sym" width="800" class="center"><br /><p>
+<p><img src='images/Caumsett2/DSC_0130_1.jpg' alt="sym" width="800" class="center"><br /><p>
 <p><img src='images/Caumsett2/DSC_0149_1.jpg' alt="sym" width="800" class="center"><br /><p>
 
 <p><img src='images/Caumsett2/DSC_0170_1.jpg' alt="sym" width="800" class="center"><br /><p>
